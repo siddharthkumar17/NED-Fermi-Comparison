@@ -190,7 +190,7 @@ class xml:
 			if '</GRB>' in line:
 				newline = newline + '\n'
 			if '</ALLGRBS>' in line:
-				print newline
+				print(newline)
 
 #	#########################################################################################
 
