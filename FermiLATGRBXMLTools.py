@@ -10,7 +10,7 @@ xml = PublicTableXMLTools.xml('PublicTableGRBs.xml')
 # Convert the xml file into a space-delimited text file
 xml.xml2txt()
 
-# Return data for all GRBs in a single dictionary of numpy arrays
+# Return data for all GRBs in a single dictionary of np arrays
 Data = xml.ExtractData()
 
 # List all available data 
@@ -30,10 +30,9 @@ GRB = GRBs['130427324']
 print GRB.RA, GRB.DEC
 """
 
+import os
 import sys
-import numpy
-
-
+import numpy as np
 
 ##########################################################################################
 
@@ -195,32 +194,32 @@ class xml:
 #	#########################################################################################
 
 	def ExtractData(self):
-		"""Return data for all GRBs in a single dictionary of numpy arrays.\n Exampple:\nData = xml.ExtractData()"""
-	
+		"""Return data for all GRBs in a single dictionary of np arrays.\n Exampple:\nData = xml.ExtractData()"""
+
 		# Read in the entire xml file    
 		lines = iter(open(self.Filename, 'r'))
 		
-		GRBNAME = numpy.array([])
-		GCNNAME = numpy.array([])
-		MET = numpy.array([])
-		DATE = numpy.array([])
-		TIME = numpy.array([])
-		RA = numpy.array([])
-		DEC = numpy.array([])
-		ERROR = numpy.array([])
-		POSITIONSOURCE = numpy.array([])
-		THETA = numpy.array([])
-		ZENITH = numpy.array([])
-		BELOW75MEVDETECTION = numpy.array([])
-		ABOVE75MEVDETECTION = numpy.array([])
-		LLESIGMA = numpy.array([])
-		TS = numpy.array([])
-		LIKESTART = numpy.array([])
-		LIKESTOP = numpy.array([])
-		LATRA = numpy.array([])
-		LATDEC = numpy.array([])
-		LATERROR = numpy.array([])
-		IRF = numpy.array([])
+		GRBNAME = np.array([])
+		GCNNAME = np.array([])
+		MET = np.array([])
+		DATE = np.array([])
+		TIME = np.array([])
+		RA = np.array([])
+		DEC = np.array([])
+		ERROR = np.array([])
+		POSITIONSOURCE = np.array([])
+		THETA = np.array([])
+		ZENITH = np.array([])
+		BELOW75MEVDETECTION = np.array([])
+		ABOVE75MEVDETECTION = np.array([])
+		LLESIGMA = np.array([])
+		TS = np.array([])
+		LIKESTART = np.array([])
+		LIKESTOP = np.array([])
+		LATRA = np.array([])
+		LATDEC = np.array([])
+		LATERROR = np.array([])
+		IRF = np.array([])
 		
 		
 		# Loop through the lines and extract information
@@ -233,113 +232,113 @@ class xml:
 				line = line.replace('<GRBNAME>','')
 				line = line.replace('</GRBNAME>','')
 				line = line.strip()
-				GRBNAME = numpy.append(GRBNAME,line)
+				GRBNAME = np.append(GRBNAME,line)
 			if '<GCNNAME>' in line:
 				line = line.replace('<GCNNAME>','')
 				line = line.replace('</GCNNAME>','')
 				line = line.strip()
-				GCNNAME = numpy.append(GCNNAME,line)
+				GCNNAME = np.append(GCNNAME,line)
 			if '<MET>' in line:
 				line = line.replace('<MET>','')
 				line = line.replace('</MET>','')
 				line = line.strip()
-				MET = numpy.append(MET,float(line))			
+				MET = np.append(MET,float(line))			
 			if '<DATE>' in line:
 				line = line.replace('<DATE>','')
 				line = line.replace('</DATE>','')
 				line = line.strip()
-				DATE = numpy.append(DATE,line)	
+				DATE = np.append(DATE,line)	
 			if '<TIME>' in line:
 				line = line.replace('<TIME>','')
 				line = line.replace('</TIME>','')
 				line = line.strip()
-				TIME = numpy.append(TIME,line)		
+				TIME = np.append(TIME,line)		
 			if '<RA>' in line:
 				line = line.replace('<RA>','')
 				line = line.replace('</RA>','')
 				line = line.strip()
-				RA = numpy.append(RA,float(line))		
+				RA = np.append(RA,float(line))		
 			if '<DEC>' in line:
 				line = line.replace('<DEC>','')
 				line = line.replace('</DEC>','')
 				line = line.strip()
-				DEC = numpy.append(DEC,float(line))														
+				DEC = np.append(DEC,float(line))														
 			if '<ERROR>' in line:
 				line = line.replace('<ERROR>','')
 				line = line.replace('</ERROR>','')
 				line = line.strip()
-				ERROR = numpy.append(ERROR,float(line))
+				ERROR = np.append(ERROR,float(line))
 			if '<POSITIONSOURCE>' in line:
 				line = line.replace('<POSITIONSOURCE>','')
 				line = line.replace('</POSITIONSOURCE>','')
 				line = line.strip()
-				POSITIONSOURCE = numpy.append(POSITIONSOURCE,line)				
+				POSITIONSOURCE = np.append(POSITIONSOURCE,line)				
 			if '<THETA>' in line:
 				line = line.replace('<THETA>','')
 				line = line.replace('</THETA>','')
 				line = line.strip()
-				THETA = numpy.append(THETA,float(line))	
+				THETA = np.append(THETA,float(line))	
 			if '<ZENITH>' in line:
 				line = line.replace('<ZENITH>','')
 				line = line.replace('</ZENITH>','')
 				line = line.strip()
-				ZENITH = numpy.append(ZENITH,float(line))
+				ZENITH = np.append(ZENITH,float(line))
 			if '<BELOW75MEVDETECTION>' in line:
 				line = line.replace('<BELOW75MEVDETECTION>','')
 				line = line.replace('</BELOW75MEVDETECTION>','')
 				line = line.strip()
 				if 'YES' in line:
-					BELOW75MEVDETECTION = numpy.append(BELOW75MEVDETECTION,True)	
+					BELOW75MEVDETECTION = np.append(BELOW75MEVDETECTION,True)	
 				else:
-					BELOW75MEVDETECTION = numpy.append(BELOW75MEVDETECTION,False)								
+					BELOW75MEVDETECTION = np.append(BELOW75MEVDETECTION,False)								
 			if '<ABOVE75MEVDETECTION>' in line:
 				line = line.replace('<ABOVE75MEVDETECTION>','')
 				line = line.replace('</ABOVE75MEVDETECTION>','')
 				line = line.strip()
 				if 'YES' in line:
-					ABOVE75MEVDETECTION = numpy.append(ABOVE75MEVDETECTION,True)
+					ABOVE75MEVDETECTION = np.append(ABOVE75MEVDETECTION,True)
 				else:
-					ABOVE75MEVDETECTION = numpy.append(ABOVE75MEVDETECTION,False)
+					ABOVE75MEVDETECTION = np.append(ABOVE75MEVDETECTION,False)
 			if '<LLESIGMA>' in line:
 				line = line.replace('<LLESIGMA>','')
 				line = line.replace('</LLESIGMA>','')
 				line = line.strip()
-				LLESIGMA = numpy.append(LLESIGMA,float(line))					
+				LLESIGMA = np.append(LLESIGMA,float(line))					
 			if '<TS>' in line:
 				line = line.replace('<TS>','')
 				line = line.replace('</TS>','')
 				line = line.strip()
-				TS = numpy.append(TS,float(line))
+				TS = np.append(TS,float(line))
 			if '<LIKESTART>' in line:
 				line = line.replace('<LIKESTART>','')
 				line = line.replace('</LIKESTART>','')
 				line = line.strip()
-				LIKESTART = numpy.append(LIKESTART,float(line))				
+				LIKESTART = np.append(LIKESTART,float(line))				
 			if '<LIKESTOP>' in line:
 				line = line.replace('<LIKESTOP>','')
 				line = line.replace('</LIKESTOP>','')
 				line = line.strip()
-				LIKESTOP = numpy.append(LIKESTOP,float(line))				
+				LIKESTOP = np.append(LIKESTOP,float(line))				
 			if '<LATRA>' in line:
 				line = line.replace('<LATRA>','')
 				line = line.replace('</LATRA>','')
 				line = line.strip()
-				LATRA = numpy.append(LATRA,float(line))
+				LATRA = np.append(LATRA,float(line))
 			if '<LATDEC>' in line:
 				line = line.replace('<LATDEC>','')
 				line = line.replace('</LATDEC>','')
 				line = line.strip()
-				LATDEC = numpy.append(LATDEC,float(line))									
+				LATDEC = np.append(LATDEC,float(line))									
 			if '<LATERROR>' in line:
 				line = line.replace('<LATERROR>','')
 				line = line.replace('</LATERROR>','')
 				line = line.strip()
-				LATERROR = numpy.append(LATERROR,float(line))				
+				LATERROR = np.append(LATERROR,float(line))				
 			if '<IRF>' in line:
 				line = line.replace('<IRF>','')
 				line = line.replace('</IRF>','')
 				line = line.strip()
-				IRF = numpy.append(IRF,line)	
+				IRF = np.append(IRF,line)	
 			if '</ALLGRBS>' in line:
 			
 				dictionary = {'GRBNAME':GRBNAME, 'GCNNAME':GCNNAME, 'MET':MET, 'DATE':DATE, 'TIME':TIME, 'RA':RA, 'DEC':DEC, 'ERROR':ERROR, 'POSITIONSOURCE':POSITIONSOURCE, 'THETA':THETA, 'ZENITH':ZENITH, 'BELOW75MEVDETECTION':BELOW75MEVDETECTION, 'ABOVE75MEVDETECTION':ABOVE75MEVDETECTION, 'LLESIGMA':LLESIGMA, 'TS':TS, 'LIKESTART':LIKESTART, 'LIKESTOP':LIKESTOP, 'LATRA':LATRA, 'LATDEC':LATDEC, 'LATERROR':LATERROR, 'IRF':IRF}
