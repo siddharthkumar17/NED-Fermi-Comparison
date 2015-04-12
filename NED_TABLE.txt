@@ -1,0 +1,765 @@
+Row          Object Name                 EquJ2000.0       Object  Velocity/Redshift    Mag./  Separ.               Number of                                 Row 
+No.     (* => Essential Note)       RA               DEC  Type     km/s       z   Qual Filter arcmin Refs Notes Phot Posn Vel/z Diam Assoc Images   Spectra  No. 
+1    2MASX J00015724-1031169        00h01m57.2s -10d31m17s G      >30000  0.251694      19.1g    ...     9     0   50    3     3   10     0 Retrieve Retrieve 1   
+2    FBQS J0002-0024                00h02m57.2s -00d24m47s G      >30000  0.523000      20.70    ...    19     1   32    3     1    4     0 Retrieve Retrieve 2   
+3    2MASS J00173691+1451019        00h17m36.9s +14d51m02s QSO    >30000  0.302712      18.3g    ...    15     0   30    4     3    8     0 Retrieve Retrieve 3   
+4    SDSS J001741.84-105613.2       00h17m41.9s -10d56m13s QSO    >30000  1.814509      19.0g    ...    23     0   40    2    12    8     0 Retrieve Retrieve 4   
+5    2MASS J00214226-0900441        00h21m42.2s -09d00m45s G      >30000  0.648179      19.7g    ...     9     0   34    2     3    8     0 Retrieve Retrieve 5   
+6    2MASS J00220095+0006575        00h22m00.9s +00d06m58s QSO    >30000  0.306000      19.5g    ...    21     0   28    1     1    4     0 Retrieve Retrieve 6   
+7    SDSS J002401.28+160233.8       00h24m01.3s +16d02m34s QSO    >30000  0.435000 PHOT 18.8r    ...     8     0   16    3     1    4     0 Retrieve Retrieve 7   
+8   *2MASS J00351472+1515040        00h35m14.7s +15d15m04s QSO    >30000  1.090260      17.0g    ...    39     0   45    2     3    8     0 Retrieve Retrieve 8   
+9    SDSS J003808.50+001336.5       00h38m08.5s +00d13m37s QSO    >30000  0.739500      19.7g    ...    14     0   15    1     3    4     0 Retrieve Retrieve 9   
+10   SDSS J0040-0915                00h40m54.6s -09d15m27s QSO    >30000  4.976896      24.5g    ...    37     0   36    2    13    8     0 Retrieve Retrieve 10  
+11  *FBQS J0050-0929                00h50m41.3s -09d29m05s QSO    >30000  0.634000 TENT 17.44    ...   326    13  121    6     1    3     0 Retrieve Retrieve 11  
+12   2MASX J00562008-0936298        00h56m20.1s -09d36m30s G      >30000  0.103147      16.5g    ...    44     0   65    5     3   10     0 Retrieve Retrieve 12  
+13   SDSS J005713.00+004205.9       00h57m13.0s +00d42m06s QSO    >30000  1.543721      19.5g    ...    20     0   37    2    12    8     0 Retrieve Retrieve 13  
+14   FBQS J0100-0055                01h00m58.2s -00d55m48s QSO    >30000  0.670000      19.75    ...    12     0   17    1     2    3     0 Retrieve Retrieve 14  
+15   FBQS J0105-0033                01h05m40.7s -00d33m14s QSO    >30000  1.178800      19.1g    ...    31     0   34    2    13    4     0 Retrieve Retrieve 15  
+16   2MASS J01145278+1325376        01h14m52.8s +13d25m37s QSO    >30000  2.025000 PHOT 17.0r    ...    24     0   21    3     2    4     0 Retrieve Retrieve 16  
+17   SDSS J012227.38+151023.0       01h22m27.4s +15d10m23s QSO    >30000  2.075000 PHOT 20.3U    ...     6     0   19    1     2    4     0 Retrieve Retrieve 17  
+18   FBQS J0127-0821                01h27m16.3s -08d21m29s QSO    >30000  0.362000  ?   17.07    ...    19     0   24    2     3    4     0 Retrieve Retrieve 18  
+19  *[HB89] 0138-097                01h41m25.8s -09d28m44s QSO    >30000  0.733000      17.5     ...   179    16   93    6     3    3     0 Retrieve Retrieve 19  
+20   2MASS J02010616+0034002        02h01m06.2s +00d34m00s QSO    >30000  0.298632      18.4g    ...    88     4   64    4     3    8     0 Retrieve Retrieve 20  
+21   SDSS J022039.66-004048.0       02h20m39.6s -00d40m48s *         ...       ...      20.4g    ...     1     0    8    1     0    4     0 Retrieve Retrieve 21  
+22   SDSS J022040.94-010410.8       02h20m40.9s -01d04m11s G      >30000  0.349651      19.6g    ...     3     0   39    2     3    8     0 Retrieve Retrieve 22  
+23   2MASS J02204845-0842506        02h20m48.5s -08d42m50s QSO    >30000  0.525088      18.6g    ...    20     0   44    3     4    8     0 Retrieve Retrieve 23  
+24   SDSS J022509.75+001456.0       02h25m09.7s +00d14m56s QSO    >30000  0.782000      19.6r    ...     6     0   13    1     3    4     0 Retrieve Retrieve 24  
+25   SDSS J023813.66-092431.4       02h38m13.7s -09d24m31s G      >30000  0.418957      20.1g    ...    11     0   47    2     2    8     0 Retrieve Retrieve 25  
+26   SDSS J024157.36+000944.0       02h41m57.3s +00d09m44s QSO    >30000  0.789600  ?   20.5r    ...    17     0   10    1     2    4     1 Retrieve Retrieve 26  
+27   FBQS J0243+0046                02h43m02.9s +00d46m27s G      >30000  0.409185      20.0g    ...    14     0   41    2     4    8     0 Retrieve Retrieve 27  
+28   SDSS J024540.77+004747.2       02h45m40.8s +00d47m47s QSO    >30000  1.710406      20.0r    ...    13     0   10    1     8    4     0 Retrieve Retrieve 28  
+29   SDSS J024716.82+001638.4       02h47m16.8s +00d16m38s *      >30000  0.553000 TENT 19.9g    ...     1     0   12    1     1    4     0 Retrieve Retrieve 29  
+30   SDSS J025716.22-001433.5       02h57m16.2s -00d14m34s QSO    >30000  1.916903      19.4r    ...    13     0   14    1     7    4     0 Retrieve Retrieve 30  
+31   SDSS J025743.72+011144.5       02h57m43.7s +01d11m45s QSO    >30000  1.711153      19.2g    ...    28     0   40    2    16    8     0 Retrieve Retrieve 31  
+32   SDSS J030235.77-075026.9       03h02m35.8s -07d50m27s VisS      ...       ...      20.3r    ...     4     0    9    1     0    4     0 Retrieve Retrieve 32  
+33  *FBQS J0304-0054                03h04m33.9s -00d54m05s QSO    >30000  0.511311      19.1g    ...    19     0   37    2     4    8     0 Retrieve Retrieve 33  
+34   SDSS J031127.78-072736.6       03h11m27.8s -07d27m37s QSO    >30000  0.926289      19.4g    ...    19     0   40    2    11    8     0 Retrieve Retrieve 34  
+35  *SDSS J031712.23-075850.3       03h17m12.2s -07d58m50s QSO    >30000  2.696254      18.8r    ...    27     0   28    1     8    4     0 Retrieve Retrieve 35  
+36   2MASS J03234362-0111461        03h23m43.6s -01d11m46s QSO    >30000  2.075000 PHOT 16.8r    ...    18     0   18    1     2    4     0 Retrieve Retrieve 36  
+37   2MASX J03521984-0550452        03h52m19.8s -05d50m45s G       10003  0.033367      17.0g    ...     8     0   31    2     2    6     0 Retrieve Retrieve 37  
+38   2MASS J07265954+3734232        07h26m59.5s +37d34m23s QSO    >30000  1.577000 TENT 19.4g    ...     7     0   12    1     2    4     1 Retrieve Retrieve 38  
+39  *2MASS J07334680+4111196        07h33m46.8s +41d11m20s QSO    >30000  0.670000      18.6g    ...    10     0    8    3     1    4     0 Retrieve Retrieve 39  
+40   2MASS J07370187+2846460        07h37m01.9s +28d46m46s QSO    >30000  0.272197      19.0g    ...    20     0   46    3     3    8     0 Retrieve Retrieve 40  
+41  *2MASS J07405462+3226008        07h40m54.6s +32d26m01s QSO    >30000  0.946000      18.6r    ...     9     0    6    1     3    4     0 Retrieve Retrieve 41  
+42   2MASS J07424293+3018364        07h42m42.9s +30d18m36s QSO    >30000  0.494571      20.1g    ...     8     0   46    3     2    8     0 Retrieve Retrieve 42  
+43   2MASS J07455918+2226508        07h45m59.2s +22d26m51s G      >30000  0.351626      19.6g    ...    20     0   43    4     4    8     0 Retrieve Retrieve 43  
+44   SDSS J075331.84+270415.3       07h53m31.8s +27d04m15s QSO    >30000  1.659175      18.5i    ...    15     0    6    1     8    4     0 Retrieve Retrieve 44  
+45   2MASX J07543702+3910477        07h54m37.1s +39d10m48s G       28806  0.096087      16.5g    ...    28     0   40    1     3    6     1 Retrieve Retrieve 45  
+46   SDSS J075437.84+422115.3       07h54m37.8s +42d21m15s QSO    >30000  1.960740      20.7g    ...    19     0   28    2     8    8     0 Retrieve Retrieve 46  
+47  *2MASS J07544566+4823507        07h54m45.7s +48d23m51s QSO    >30000  0.377142      17.5g    ...    39     1   46    4     3    8     1 Retrieve Retrieve 47  
+48   SDSS J075551.44+352549.7       07h55m51.4s +35d25m50s QSO    >30000  2.070460      18.6i    ...    21     0    6    1     9    4     0 Retrieve Retrieve 48  
+49   SDSS J075602.72+414039.8       07h56m02.7s +41d40m40s G      >30000  0.578974      20.5g    ...    10     0   27    3     3    8     1 Retrieve Retrieve 49  
+50   SDSS J075936.13+132117.8       07h59m36.1s +13d21m18s G      >30000  0.386400      18.8g    ...     4     0    6    1     3    4     0 Retrieve Retrieve 50  
+51   2MASS J08001878+1645571        08h00m18.8s +16d45m57s G      >30000  0.308000      19.0g    ...     8     0   15    1     1    4     0 Retrieve Retrieve 51  
+52   SDSS J080115.01+133642.2       08h01m15.0s +13d36m42s *      >30000  0.415000 PHOT 19.4g    ...     2     0    5    1     1    4     2 Retrieve Retrieve 52  
+53   SDSS J080131.15+532900.8       08h01m31.1s +53d29m01s WD*       ...       ...       ...     ...     1     0    9    1     0    4     0 Retrieve Retrieve 53  
+54   SDSS J080204.81+100637.8       08h02m04.8s +10d06m38s *      >30000  2.085000 PHOT 17.6g    ...     2     0    5    1     1    4     1 Retrieve Retrieve 54  
+55   SDSS J080307.30+243750.8       08h03m07.3s +24d37m51s G      >30000  2.145000 PHOT 19.0g    ...     4     0    7    1     1    4     0 Retrieve Retrieve 55  
+56   SDSS J080323.01+481618.6       08h03m23.0s +48d16m19s QSO    >30000  0.500127      19.6g    ...    15     0   35    2     3    8     0 Retrieve Retrieve 56  
+57   SDSS J080615.30+133019.7       08h06m15.3s +13d30m20s *      >30000  0.445000 PHOT 20.2g    ...     2     0    5    1     1    4     2 Retrieve Retrieve 57  
+58   SDSS J080831.59+092304.0       08h08m31.6s +09d23m04s *         ...       ...      21.1g    ...     1     0    5    1     0    4     0 Retrieve Retrieve 58  
+59   SDSS J080906.87+172955.1       08h09m06.9s +17d29m55s QSO    >30000  2.951960      18.7g    ...    18     0   33    2    11    8     0 Retrieve Retrieve 59  
+60   2MASS J08094918+5218583        08h09m49.2s +52d18m58s QSO    >30000  0.138000      15.3     ...   128     5   44    3     4    4     0 Retrieve Retrieve 60  
+61   SDSS J081042.53+325401.4       08h10m42.5s +32d54m01s *         ...       ...      20.5g    ...     1     0    5    1     0    4     0 Retrieve Retrieve 61  
+62  *SDSS J081058.17+284618.6       08h10m58.2s +28d46m19s G      >30000  0.271820      20.4g    ...    10     0   40    3     2    8     0 Retrieve Retrieve 62  
+63   SDSS J081226.00+114158.5       08h12m26.0s +11d41m59s *      >30000  0.335000 PHOT 20.5g    ...     4     0    6    1     1    4     0 Retrieve Retrieve 63  
+64   SDSS J081231.27+282056.2       08h12m31.3s +28d20m56s QSO    >30000  0.490576      19.4g    ...     9     0   38    2     3    8     0 Retrieve Retrieve 64  
+65   SDSS J081250.79+522530.8       08h12m50.8s +52d25m31s QSO    >30000  1.153205      18.4g    ...    10     0   32    2     8    8     0 Retrieve Retrieve 65  
+66   2MASS J08125144+5554219        08h12m51.4s +55d54m22s QSO    >30000  0.382771      18.9g    ...     9     0   32    2     3    8     0 Retrieve Retrieve 66  
+67   SDSS J081258.40+153152.2       08h12m58.4s +15d31m52s QSO    >30000  2.244710      20.4g    ...     1     0   15    1     2    4     1 Retrieve Retrieve 67  
+68   SDSS J081322.91+343758.5       08h13m22.9s +34d37m59s QSO    >30000  0.774266      19.5r    ...    10     0   13    1     5    4     0 Retrieve Retrieve 68  
+69   FBQS J081421.2+294021          08h14m21.3s +29d40m21s QSO    >30000  1.083530      18.8g    ...    21     1   29    3     2    8     0 Retrieve Retrieve 69  
+70   2MASS J08160957+4910043        08h16m09.6s +49d10m04s QSO    >30000  0.475000 PHOT 17.9r    ...     7     0   14    1     1    4     0 Retrieve Retrieve 70  
+71   2MASS J08164977+2051063        08h16m49.8s +20d51m06s QSO     17473  0.058285      18.3g    ...    10     0   10    1     1    4     0 Retrieve Retrieve 71  
+72   2MASS J08175105+3243400        08h17m51.0s +32d43m41s QSO    >30000  0.795000      19.0     ...    16     0   14    2     2    4     0 Retrieve Retrieve 72  
+73  *B3 0814+425                    08h18m16.0s +42d22m45s QSO    >30000  0.530000      18.2V    ...   278    13   82    6     5    4     0 Retrieve Retrieve 73  
+74   FBQS J081827.3+281402          08h18m27.3s +28d14m03s QSO    >30000  0.225474      17.9g    ...    21     0   39    4     3    8     0 Retrieve Retrieve 74  
+75   B2 0815+32                     08h18m40.0s +31d53m48s QSO    >30000  2.065000 PHOT 19.6g    ...    13     0   15    4     1    4     0 Retrieve Retrieve 75  
+76   SDSS J081918.84+274730.8       08h19m18.8s +27d47m31s QSO    >30000  0.392929      19.4g    ...    23     0   37    4     2    8     0 Retrieve Retrieve 76  
+77   SDSS J081931.58+142937.6       08h19m31.6s +14d29m38s *      >30000  0.494000 TENT 19.9g    ...     3     0    5    1     2    4     1 Retrieve Retrieve 77  
+78   SDSS J081956.03+132100.9       08h19m56.0s +13d21m01s *         ...       ...      19.4g    ...     1     0    7    1     0    4     0 Retrieve Retrieve 78  
+79  *FBQS J082020.2+364004          08h20m20.2s +36d40m04s QSO    >30000  0.393000      18.15    ...    21     0   15    2     1    0     0 Retrieve Retrieve 79  
+80   2MASS J08205119+2353451        08h20m51.2s +23d53m45s G      >30000  0.402163      18.5g    ...     8     0   26    2     3    8     1 Retrieve Retrieve 80  
+81   SDSS J082320.56+112551.6       08h23m20.5s +11d25m52s G      >30000  0.440000      20.0g    ...     2     0   15    1     1    4     1 Retrieve Retrieve 81  
+82   2MASX J08232326+1524482        08h23m23.2s +15d24m48s G      >30000  0.166616      18.1g    ...    10     0   33    1     4    6     0 Retrieve Retrieve 82  
+83   4C +22.21                      08h23m24.7s +22d23m03s QSO    >30000  0.951000      19.5     ...   143     4   84    4     2    4     1 Retrieve Retrieve 83  
+84   2MASS J08260391+4130437        08h26m03.9s +41d30m44s UvES   >30000  2.025000 PHOT  ...     ...     7     0   16    2     2    4     0 Retrieve Retrieve 84  
+85  *SDSS J082638.58+515233.1       08h26m38.6s +51d52m33s QSO    >30000  2.826976      17.5g    ...    23     0   26    2    10    8     0 Retrieve Retrieve 85  
+86   SDSS J082722.73+032755.9       08h27m22.7s +03d27m56s QSO    >30000  2.022500      18.8g    ...    18     0   26    2    11    8     0 Retrieve Retrieve 86  
+87   SDSS J082801.14+231217.6       08h28m01.1s +23d12m18s G      >30000  0.240000 EST  20.3g    ...     5     0   12    1     1    4     0 Retrieve Retrieve 87  
+88   SDSS J082814.20+415351.9       08h28m14.2s +41d53m52s G      >30000  0.226153      18.4g    ...    12     0   35    2     4    8     2 Retrieve Retrieve 88  
+89   SDSS J082927.85+075911.4       08h29m27.8s +07d59m11s WD*       ...       ...       ...     ...     1     0    9    1     0    4     0 Retrieve Retrieve 89  
+90   SDSS J082935.10+261746.4       08h29m35.1s +26d17m46s WD*    >30000  0.635000 PHOT  ...     ...     2     0    5    1     1    4     0 Retrieve Retrieve 90  
+91   SDSS J083133.04+174630.8       08h31m33.0s +17d46m31s *      >30000  1.545000 PHOT 19.0g    ...     6     0   16    3     1    4     0 Retrieve Retrieve 91  
+92   [HB89] 0829+046                08h31m48.9s +04d29m39s QSO    >30000  0.173683      15.8g    ...   335    16  113    9     9    8     2 Retrieve Retrieve 92  
+93  *[HB89] 0828+493                08h32m23.2s +49d13m21s QSO    >30000  0.548000      19.9g    ...   139     7   52    5     3    4     2 Retrieve Retrieve 93  
+94   SDSS J083304.73+415331.3       08h33m04.7s +41d53m31s QSO    >30000  2.329499      19.6g    ...    18     0   26    2     8    8     0 Retrieve Retrieve 94  
+95   SDSS J083330.56+233909.1       08h33m30.6s +23d39m09s QSO    >30000  2.423150      19.6g    ...    14     0   26    2     6    8     0 Retrieve Retrieve 95  
+96   2MASS J08335705+4726525        08h33m57.1s +47d26m53s G      >30000  0.494477      19.2g    ...    19     0   30    2     3    8     0 Retrieve Retrieve 96  
+97   2MASS J08341388+5112143        08h34m13.9s +51d12m15s QSO    >30000  2.390700      21.8g    ...    26     0   26    2    10    8     0 Retrieve Retrieve 97  
+98   SDSS J083417.58+182501.6       08h34m17.6s +18d25m02s G      >30000  0.336000      20.1g    ...     4     0   23    1     1    4     2 Retrieve Retrieve 98  
+99  *B3 0831+442                    08h34m58.2s +44d03m38s QSO    >30000  0.475000 PHOT 17.8r    ...    27     0   23    4     2    4     0 Retrieve Retrieve 99  
+100  2MASS J08354322+0937177        08h35m43.2s +09d37m18s *      >30000  0.415000 PHOT 18.7g    ...    15     0   13    4     1    4     0 Retrieve Retrieve 100 
+101  2MASX J08354812+1517176        08h35m48.1s +15d17m17s G      >30000  0.168479      17.6g    ...    12     0   33    3     4    6     0 Retrieve Retrieve 101 
+102  SDSS J083650.86+142539.0       08h36m50.8s +14d25m39s QSO    >30000  1.749572      19.1g    ...     9     0    9    1     8    4     0 Retrieve Retrieve 102 
+103 *2MASXi J0837247+145819         08h37m24.7s +14d58m20s G      >30000  0.278038      17.6g    ...    12     1   21    3     3    4     0 Retrieve Retrieve 103 
+104  SDSS J083743.98+175920.4       08h37m44.0s +17d59m20s QSO    >30000  0.313000      19.0g    ...     3     0   13    1     2    4     2 Retrieve Retrieve 104 
+105  SDSS J083858.56+232252.9       08h38m58.5s +23d22m53s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 105 
+106  SDSS J083918.74+361856.1       08h39m18.7s +36d18m56s QSO    >30000  0.334485      20.2g    ...    11     0   39    3     2    8     1 Retrieve Retrieve 106 
+107  [HB89] 0836+182                08h39m30.7s +18d02m47s QSO    >30000  0.280000      16.8     ...    45     4   26    3     2    4     0 Retrieve Retrieve 107 
+108 *2MASS J08394334+3540013        08h39m43.4s +35d40m01s QSO    >30000  0.415000 PHOT 18.7r    ...    14     0    9    2     1    4     0 Retrieve Retrieve 108 
+109  2MASS J08401304+3440269        08h40m13.0s +34d40m27s G      >30000  0.451177      20.0g    ...     7     0   42    3     2    8     0 Retrieve Retrieve 109 
+110  SDSS J084056.05+372105.8       08h40m56.0s +37d21m06s QSO    >30000  0.445000 PHOT 19.2r    ...     8     0   13    2     1    4     0 Retrieve Retrieve 110 
+111  2MASS J08422550+0252524        08h42m25.5s +02d52m53s G      >30000  0.424957      19.4g    ...    17     0   38    2     2    8     1 Retrieve Retrieve 111 
+112  SDSS J084249.02+235204.7       08h42m49.0s +23d52m05s QSO    >30000  3.315660      20.0g    ...    15     0   26    2     7    8     0 Retrieve Retrieve 112 
+113  SDSS J084325.59+110159.7       08h43m25.6s +11d02m00s *      >30000  0.435000 PHOT 20.7g    ...     2     0    5    1     1    4     1 Retrieve Retrieve 113 
+114 *SDSS J084424.24+124546.5       08h44m24.2s +12d45m47s QSO    >30000  2.489422      18.3g    ...    11     0    6    1     4    4     2 Retrieve Retrieve 114 
+115  2MASS J08445223+2804096        08h44m52.3s +28d04m10s G      >30000  0.453478      20.8g    ...     9     0   43    2     2    8     0 Retrieve Retrieve 115 
+116  2MASX J08471294+1133497        08h47m12.9s +11d33m50s G      >30000  0.198199      18.1g    ...    47     1   41    1     5    6     0 Retrieve Retrieve 116 
+117  2MASS J08490880+0206220        08h49m08.8s +02d06m22s QSO    >30000  1.525000 PHOT 19.0r    ...    13     0    9    4     2    4     0 Retrieve Retrieve 117 
+118  SDSS J084932.54+045507.8       08h49m32.5s +04d55m08s QSO    >30000  1.069590      18.2g    ...    23     0   42    5     3    8     0 Retrieve Retrieve 118 
+119  SDSS J085025.60+342750.9       08h50m25.6s +34d27m51s QSO    >30000  1.389060      19.1g    ...    16     0   26    2    10    8     0 Retrieve Retrieve 119 
+120 *2MASX J08503620+3455231        08h50m36.2s +34d55m23s G      >30000  0.144965      17.2g    ...    35     0   57    3     3   10     1 Retrieve Retrieve 120 
+121  SDSS J085102.97+054905.9       08h51m03.0s +05d49m06s G      >30000  0.486361      19.5g    ...    10     0   27    2     3    8     0 Retrieve Retrieve 121 
+122  2MASX J08513593+5528341        08h51m35.9s +55d28m35s QSO    >30000  0.435000 PHOT 17.8R    ...     8     0   20    1     1    6     1 Retrieve Retrieve 122 
+123  2MASS J08522911+2433541        08h52m29.1s +24d33m54s G      >30000  0.357748      19.3g    ...     7     0   44    2     2    8     1 Retrieve Retrieve 123 
+124  2MASX J08525307+1757190        08h52m53.1s +17d57m19s G      >30000  0.210505      18.4g    ...     6     0    9    0     4    2     0 Retrieve Retrieve 124 
+125  SDSS J085254.40+180000.7       08h52m54.4s +18d00m01s G      >30000  0.499000 TENT 22.1g    ...     2     0   15    1     1    4     1 Retrieve Retrieve 125 
+126  B3 0850+443                    08h54m09.9s +44d08m30s QSO    >30000  0.382159      17.2g    ...    39     2   46    5     2    8     1 Retrieve Retrieve 126 
+127  SDSS J085410.16+275421.7       08h54m10.2s +27d54m22s G      >30000  0.493754      20.2g    ...     7     0   45    2     2    8     1 Retrieve Retrieve 127 
+128  OJ +287                        08h54m48.9s +20d06m31s QSO    >30000  0.305600      14.0V    ...   998    27  316    8     6    6     0 Retrieve Retrieve 128 
+129  SDSS J085506.39+260142.1       08h55m06.4s +26d01m42s G      >30000  0.694386      20.6g    ...     5     0   40    2     2    8     0 Retrieve Retrieve 129 
+130  SDSS J085638.50+014000.6       08h56m38.5s +01d40m01s G      >30000  0.448184      19.9g    ...     9     0   26    2     3    8     0 Retrieve Retrieve 130 
+131 *SDSS J085639.74+205743.3       08h56m39.7s +20d57m43s G      >30000  0.539104      18.7g    ...    24     0   37    3     4    4     0 Retrieve Retrieve 131 
+132  SDSS J085701.00+234239.5       08h57m01.0s +23d42m40s QSO    >30000  1.524779      19.2g    ...    11     0   26    2     7    8     1 Retrieve Retrieve 132 
+133 *2MASS J08572979+0627248        08h57m29.8s +06d27m25s G      >30000  0.338135      20.4g    ...    10     0   26    2     3    8     1 Retrieve Retrieve 133 
+134  2MASX J08574977+0135301        08h57m49.8s +01d35m30s G      >30000  0.281321      18.1g    ...    27     0   58    5     2   10     0 Retrieve Retrieve 134 
+135  SDSS J085920.55+004712.1       08h59m20.5s +00d47m12s G      >30000  0.821100      19.0     ...    16     0   15    1     3    4     2 Retrieve Retrieve 135 
+136  SDSS J090107.64+384658.7       09h01m07.6s +38d46m59s WD*    >30000  1.329000 TENT  ...     ...     3     0   13    1     2    4     0 Retrieve Retrieve 136 
+137  SDSS J090207.95+454433.0       09h02m07.9s +45d44m33s G      >30000  0.288563      19.6g    ...     5     0   42    2     2    8     0 Retrieve Retrieve 137 
+138  SDSS J090226.91+205046.4       09h02m26.9s +20d50m46s VisS   >30000  2.055000 PHOT 16.7g    ...    11     0   32    1     1    4     0 Retrieve Retrieve 138 
+139  SDSS J090240.47+153556.7       09h02m40.5s +15d35m57s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 139 
+140  2MASX J09031474+4056002        09h03m14.7s +40d56m00s QSO    >30000  0.188223      18.2g    ...    28     0   55    3     3   10     0 Retrieve Retrieve 140 
+141 *SDSS J090334.27+285359.2       09h03m34.3s +28d53m59s QSO    >30000  0.527000 TENT 19.9g    ...     6     0   15    2     2    4     0 Retrieve Retrieve 141 
+142  SDSS J090523.60+575912.4       09h05m23.6s +57d59m12s G      >30000  0.712085      19.6g    ...     5     0   33    2     6    8     0 Retrieve Retrieve 142 
+143  SDSS J090700.08+085751.3       09h07m00.1s +08d57m51s QSO    >30000  1.331000 TENT 20.2g    ...     4     0    5    1     2    4     1 Retrieve Retrieve 143 
+144  SDSS J090703.91+410748.3       09h07m03.9s +41d07m48s QSO    >30000  2.671651      19.3g    ...    17     0   30    2     9    8     0 Retrieve Retrieve 144 
+145  SDSS J090818.95+214820.0       09h08m18.9s +21d48m20s QSO    >30000  2.089000      19.2g    ...     2     0    5    1     2    4     0 Retrieve Retrieve 145 
+146  SDSS J090843.25+285229.8       09h08m43.2s +28d52m30s QSO    >30000  0.933054      18.6g    ...    10     0   29    2     8    8     0 Retrieve Retrieve 146 
+147  SDSS J090855.92+160954.8       09h08m55.9s +16d09m55s QSO    >30000  0.652000 TENT 20.19    ...    22     0   19    3     2    4     0 Retrieve Retrieve 147 
+148  SDSS J090900.62+231113.0       09h09m00.6s +23d11m13s QSO    >30000  0.431000      18.2g    ...     2     0    5    1     2    4     1 Retrieve Retrieve 148 
+149  PKS 0907+022                   09h09m39.8s +02d00m05s QSO    >30000  1.575000 PHOT 18.94    ...    38     0   29    4     2    4     0 Retrieve Retrieve 149 
+150 *B2 0906+31                     09h09m53.3s +31d06m03s QSO    >30000  0.272118      18.1g    ...    36     0   61    6     4   10     1 Retrieve Retrieve 150 
+151  FBQS J091037.0+332924          09h10m37.0s +33d29m24s QSO    >30000  0.354000      16.56    ...    47     0   30    3     3    4     0 Retrieve Retrieve 151 
+152  2MASS J09104531+2548126        09h10m45.3s +25d48m13s G      >30000  0.384533      19.7g    ...    11     0   40    2     2    8     1 Retrieve Retrieve 152 
+153  FBQS J091052.0+390202          09h10m52.0s +39d02m02s QSO    >30000  0.198696      18.2g    ...    15     0   35    3     4    8     0 Retrieve Retrieve 153 
+154 *2MASS J09114777+3349167        09h11m47.7s +33d49m17s G      >30000  0.456101      19.2g    ...    26     0   49    6     2    8     0 Retrieve Retrieve 154 
+155  2MASS J09115135+2949294        09h11m51.3s +29d49m30s G      >30000  0.445690      19.3g    ...     7     0   32    3     3    8     0 Retrieve Retrieve 155 
+156  SDSS J091211.21+275927.9       09h12m11.2s +27d59m28s QSO    >30000  1.545000 PHOT 18.9     ...    15     0   11    1     1    4     0 Retrieve Retrieve 156 
+157  SDSS J091249.60+050317.7       09h12m49.6s +05d03m18s G      >30000  0.452192      20.7g    ...     3     0   36    2     2    8     0 Retrieve Retrieve 157 
+158  FBQS J091552.3+293324          09h15m52.4s +29d33m24s QSO    >30000  0.101000 EST  15.83    ...   152     2   50    9     1    4     0 Retrieve Retrieve 158 
+159  2MASX J09165193+5238281        09h16m51.9s +52d38m28s G      >30000  0.190481      17.8g    ...    50     0   57    4     6   10     1 Retrieve Retrieve 159 
+160  B3 0914+406                    09h17m40.1s +40d29m29s G      >30000  0.720931      19.9g    ...     7     0   36    6     3    8     1 Retrieve Retrieve 160 
+161 *2MASS J09184859+0213220        09h18m48.6s +02d13m22s UvES   >30000  2.075000 PHOT  ...     ...     7     0   10    1     2    4     0 Retrieve Retrieve 161 
+162  SDSS J092145.37+233548.1       09h21m45.4s +23d35m48s QSO    >30000  1.061900      18.6R    ...     8     0   14    1     2    4     0 Retrieve Retrieve 162 
+163  SDSS J092146.79+245541.3       09h21m46.8s +24d55m41s *      >30000  2.065000 PHOT 20.2g    ...     2     0    9    1     1    4     1 Retrieve Retrieve 163 
+164  SDSS J092216.38+234645.5       09h22m16.4s +23d46m46s QSO    >30000  0.635114      19.3g    ...     2     0    9    1     4    3     0 Retrieve Retrieve 164 
+165  SDSS J092309.41+215523.8       09h23m09.4s +21d55m24s QSO    >30000  0.542000 TENT 19.5g    ...     2     0    8    1     2    4     0 Retrieve Retrieve 165 
+166  SDSS J092312.75+174452.8       09h23m12.7s +17d44m53s QSO    >30000  2.260889      18.8g    ...     9     0   10    1     7    4     0 Retrieve Retrieve 166 
+167  SDSS J092352.85+264959.6       09h23m52.8s +26d50m00s G      >30000  0.302105      21.0g    ...     3     0   35    2     2    8     1 Retrieve Retrieve 167 
+168  SDSS J092401.04+053345.3       09h24m01.0s +05d33m45s QSO    >30000  0.570905      18.5g    ...    16     1   36    2     2    8     0 Retrieve Retrieve 168 
+169  SDSS J092430.80+312032.3       09h24m30.8s +31d20m32s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 169 
+170  SDSS J092542.87+595816.3       09h25m42.9s +59d58m17s G      >30000  1.575000 PHOT 19.1r    ...    10     0   21    1     2    4     0 Retrieve Retrieve 170 
+171 *B2 0922+31B                    09h25m43.6s +31d27m11s QSO    >30000  0.260000 EST  18.1R    ...    31     0   22    6     1    4     0 Retrieve Retrieve 171 
+172  2MASS J09263881+5411270        09h26m38.9s +54d11m27s QSO    >30000  0.850000 :    19.4r    ...     8     0   10    1     2    4     0 Retrieve Retrieve 172 
+173  SDSS J092814.02+545848.3       09h28m14.0s +54d58m48s QSO    >30000  0.781128      20.5g    ...    10     0   31    2     9    8     0 Retrieve Retrieve 173 
+174  SDSS J092837.43+404845.2       09h28m37.4s +40d48m45s QSO    >30000  0.830344      18.6g    ...     8     0   33    3     2    8     0 Retrieve Retrieve 174 
+175  SDSS J092839.08+533152.2       09h28m39.1s +53d31m52s QSO    >30000  1.000900      19.3g    ...    17     0   31    2    11    8     0 Retrieve Retrieve 175 
+176  SDSS J092902.42+194525.1       09h29m02.4s +19d45m25s QSO    >30000  1.774000 TENT 19.2g    ...     2     0    5    1     2    4     1 Retrieve Retrieve 176 
+177  2MASS J09291222+0300297        09h29m12.2s +03d00m30s VisS      ...       ...      20.0r    ...     5     0    5    1     0    4     0 Retrieve Retrieve 177 
+178  2MASS J09291544+5013360        09h29m15.4s +50d13m36s QSO    >30000  0.370387      16.9g    ...    83     1   49    4     4    8     1 Retrieve Retrieve 178 
+179  SDSS J092938.07+190502.0       09h29m38.1s +19d05m02s QSO    >30000  1.362130      19.3g    ...     4     0    9    1     3    4     2 Retrieve Retrieve 179 
+180  2MASS J09303759+4950256        09h30m37.6s +49d50m26s QSO    >30000  0.186742      18.3g    ...    67     1   53    2     3    8     0 Retrieve Retrieve 180 
+181  SDSS J093217.59+341232.8       09h32m17.6s +34d12m33s QSO    >30000  0.569700      18.8z    ...    10     0   10    1     5    4     0 Retrieve Retrieve 181 
+182  2MASS J09323935+1042352        09h32m39.4s +10d42m35s QSO    >30000  0.361228      18.8g    ...    12     0   42    2     2    8     1 Retrieve Retrieve 182 
+183 *SDSS J093406.66+392632.1       09h34m06.7s +39d26m32s QSO     13310  0.044399      20.0g    ...    26     0   43    5     4    8     0 Retrieve Retrieve 183 
+184 *SDSS J093437.53+262232.6       09h34m37.5s +26d22m33s QSO    >30000  3.370200      21.1g    ...    10     0    6    1     7    4     0 Retrieve Retrieve 184 
+185  SDSS J093544.16+124031.6       09h35m44.2s +12d40m32s *         ...       ...      22.1g    ...     1     0    5    1     0    4     0 Retrieve Retrieve 185 
+186  SDSS J093627.66+185003.3       09h36m27.6s +18d50m03s QSO    >30000  0.831127      19.3g    ...     6     0   11    3     3    4     0 Retrieve Retrieve 186 
+187 *SDSS J093807.86+371751.3       09h38m07.9s +37d17m51s G      >30000  0.559857      19.7g    ...     4     0   41    3     2    8     1 Retrieve Retrieve 187 
+188  2MASX J09402250+6148267        09h40m22.4s +61d48m26s G      >30000  0.210671      18.6g    ...    37     0   60    2     3   10     1 Retrieve Retrieve 188 
+189  SDSS J094245.30+541620.4       09h42m45.3s +54d16m21s QSO    >30000  0.475000 PHOT 20.2r    ...     7     0    9    1     2    4     0 Retrieve Retrieve 189 
+190  SDSS J094257.80-004705.2       09h42m57.8s -00d47m05s QSO    >30000  1.362837      19.1g    ...    27     0   38    2    13    8     0 Retrieve Retrieve 190 
+191  SDSS J094432.32+573536.0       09h44m32.3s +57d35m36s G      >30000  1.905000 PHOT 19.6g    ...    13     0   10    1     1    4     0 Retrieve Retrieve 191 
+192 *2MASX J09454226+5757473        09h45m42.2s +57d57m48s G      >30000  0.229004      18.4g    ...    43     0   59    4     5   10     2 Retrieve Retrieve 192 
+193 *SDSS J094604.46+473510.1       09h46m04.5s +47d35m10s QSO    >30000  0.568867      20.1g    ...     6     0   32    2     3    8     0 Retrieve Retrieve 193 
+194  SDSS J094620.21+010452.0       09h46m20.2s +01d04m52s QSO    >30000  0.577023      20.5g    ...    15     0   58    3     4   12     0 Retrieve Retrieve 194 
+195 *SDSS J094738.58+221533.3       09h47m38.6s +22d15m33s *      >30000  0.415000 PHOT 19.6g    ...     7     0   13    3     1    4     0 Retrieve Retrieve 195 
+196  2MASS J09474036+3453454        09h47m40.3s +34d53m45s QSO    >30000  2.055000 PHOT 19.1g    ...     6     0   16    2     1    4     0 Retrieve Retrieve 196 
+197 *SDSS J094827.05+083940.8       09h48m27.0s +08d39m41s QSO    >30000  1.487173      19.9g    ...    17     0   30    2    10    8     0 Retrieve Retrieve 197 
+198  SDSS J094853.60+085514.4       09h48m53.6s +08d55m14s QSO    >30000  1.971100      17.4g    ...    27     0   39    2    10    8     0 Retrieve Retrieve 198 
+199  SDSS J094911.91+182231.4       09h49m11.9s +18d22m31s WD*       ...       ...       ...     ...     1     0    9    1     0    4     0 Retrieve Retrieve 199 
+200  2MASS J09500345+0615039        09h50m03.5s +06d15m04s QSO    >30000  0.435000 PHOT 19.3g    ...    14     0   20    4     1    4     0 Retrieve Retrieve 200 
+201  SDSS J095041.07+233159.5       09h50m41.1s +23d32m00s QSO    >30000  2.115950      19.3g    ...     9     0   10    1     7    4     0 Retrieve Retrieve 201 
+202  SDSS J095125.90+504559.7       09h51m25.9s +50d46m00s QSO    >30000  1.363254      19.0g    ...    17     0   32    2     9    8     0 Retrieve Retrieve 202 
+203  2MASS J09512783+0102103        09h51m27.8s +01d02m10s VisS   >30000  0.502000 TENT 19.4g    ...    10     0   15    1     2    4     0 Retrieve Retrieve 203 
+204  SDSS J095214.70+393615.8       09h52m14.7s +39d36m16s QSO    >30000  2.241780      20.0g    ...    22     0   29    3     2    8     2 Retrieve Retrieve 204 
+205  SDSS J095409.86+491459.5       09h54m09.8s +49d15m00s QSO    >30000  0.380045      19.1g    ...    49     4   30    4     2    8     1 Retrieve Retrieve 205 
+206  SDSS J095438.39+234118.2       09h54m38.4s +23d41m18s *      >30000  1.333000 TENT 19.3g    ...     2     0    5    1     2    4     0 Retrieve Retrieve 206 
+207  SDSS J095501.87+083342.1       09h55m01.9s +08d33m42s QSO    >30000  1.055720      19.8g    ...     6     0   35    2     3    8     0 Retrieve Retrieve 207 
+208  SDSS J095507.88+355100.8       09h55m07.9s +35d51m01s G      >30000  0.557000 TENT 20.5g    ...     8     0   18    2     1    4     0 Retrieve Retrieve 208 
+209  SDSS J095549.67+101429.5       09h55m49.7s +10d14m30s G      >30000  0.372696      20.5g    ...     3     0   39    2     2    8     0 Retrieve Retrieve 209 
+210  SDSS J095550.53+555506.9       09h55m50.5s +55d55m07s UvES   >30000  2.075000 PHOT  ...     ...     4     0   13    1     2    4     0 Retrieve Retrieve 210 
+211  SDSS J095649.53+015601.8       09h56m49.5s +01d56m02s G      >30000  0.240000      20.3g    ...    12     0   14    1     2    4     1 Retrieve Retrieve 211 
+212  SDSS J095802.93+062634.5       09h58m02.9s +06d26m35s QSO    >30000  0.969883      19.3g    ...    16     0   29    2    10    8     0 Retrieve Retrieve 212 
+213  2MASS J09592989+2123210        09h59m29.9s +21d23m21s G      >30000  0.365104      18.8g    ...    24     0   23    2     3    4     0 Retrieve Retrieve 213 
+214  SDSS J100040.67+531911.7       10h00m40.7s +53d19m12s QSO    >30000  0.679500      18.7I    ...     6     0    9    1     1    4     0 Retrieve Retrieve 214 
+215  SDSS J100050.21+574609.1       10h00m50.2s +57d46m09s G      >30000  0.640000 TENT 19.9g    ...     2     0   15    1     1    4     0 Retrieve Retrieve 215 
+216  2MASS J10011021+2911376        10h01m10.2s +29d11m38s QSO    >30000  0.558000      18.22    ...    40     0   25    4     1    4     0 Retrieve Retrieve 216 
+217  SDSS J100234.42+221614.9       10h02m34.4s +22d16m15s QSO    >30000  1.985000 PHOT 19.9O    ...     7     0    9    1     1    4     0 Retrieve Retrieve 217 
+218  SDSS J100309.39+073822.8       10h03m09.4s +07d38m23s *      >30000  0.983000      20.0g    ...     3     0    5    1     1    4     0 Retrieve Retrieve 218 
+219  SDSS J100326.63+020455.6       10h03m26.6s +02d04m56s UvES   >30000  2.075000 PHOT  ...     ...     7     0   18    1     2    4     0 Retrieve Retrieve 219 
+220  SDSS J100408.18+144909.9       10h04m08.2s +14d49m10s G      >30000  0.712000      21.1g    ...     1     0   19    1     1    4     0 Retrieve Retrieve 220 
+221  2MASS J10044474+3752122        10h04m44.7s +37d52m12s G      >30000  0.440280      19.6g    ...    16     0   44    4     2    8     0 Retrieve Retrieve 221 
+222  SDSS J100517.54+331202.8       10h05m17.5s +33d12m03s QSO    >30000  1.802269      18.9g    ...    14     0   29    2     7    8     0 Retrieve Retrieve 222 
+223  SDSS J100612.22+644011.5       10h06m12.2s +64d40m12s VisS   >30000  2.075000 PHOT 17.9     ...    15     0   15    2     2    4     0 Retrieve Retrieve 223 
+224  2MASS J10065644+3454453        10h06m56.4s +34d54m45s QSO    >30000  0.612000      19.0     ...    34     0   14    2     1    4     0 Retrieve Retrieve 224 
+225  2MASS J10081139+4705216        10h08m11.4s +47d05m21s QSO    >30000  0.343146      19.6g    ...    31     0   44    2     2    8     0 Retrieve Retrieve 225 
+226  SDSS J100902.82+621354.7       10h09m02.8s +62d13m55s QSO    >30000  1.377000      19.2g    ...    16     0   32    2    11    8     0 Retrieve Retrieve 226 
+227  2MASS J10095962+0145327        10h09m59.6s +01d45m34s QSO    >30000  1.086000      19.6r    ...    14     0   14    4     3    4     0 Retrieve Retrieve 227 
+228  PKS 1008+013                   10h11m15.6s +01d06m43s QSO    >30000  1.275000      19.0     ...    35     0   31    4     4    4     0 Retrieve Retrieve 228 
+229  SDSS J101118.50+013755.8       10h11m18.5s +01d37m56s G      >30000  0.466809      22.3g    ...     3     0   35    2     2    8     0 Retrieve Retrieve 229 
+230  SDSS J101141.02+291114.7       10h11m41.0s +29d11m15s *      >30000  2.055000 PHOT 19.9g    ...     3     0   12    2     1    4     1 Retrieve Retrieve 230 
+231 *2MASS J10121335+0630569        10h12m13.3s +06d30m57s QSO    >30000  0.727000      16.8     ...    55     3   41    6     2    4     1 Retrieve Retrieve 231 
+232  FBQS J101244.2+422957          10h12m44.3s +42d29m57s QSO    >30000  0.365109      18.6g    ...    55     1   35    5     3    8     1 Retrieve Retrieve 232 
+233  SDSS J101353.46+492758.1       10h13m53.5s +49d27m58s QSO    >30000  1.639861      18.6g    ...    20     0   39    2    10    8     0 Retrieve Retrieve 233 
+234  [HB89] 1011+496                10h15m04.1s +49d26m01s QSO    >30000  0.212000      16.15    ...   188     6   54    3     8    4     2 Retrieve Retrieve 234 
+235  2MASS J10154400+1227078        10h15m44.0s +12d27m07s QSO    >30000  0.463000 TENT 20.29    ...    23     0   28    3     0    4     0 Retrieve Retrieve 235 
+236  2MASS J10170666+5202471        10h17m06.7s +52d02m47s G      >30000  0.378711      19.7g    ...    16     0   42    2     3    8     1 Retrieve Retrieve 236 
+237  SDSS J101754.91+431201.1       10h17m54.9s +43d12m01s QSO    >30000  2.129469      19.0i    ...    17     0    6    1     7    4     0 Retrieve Retrieve 237 
+238  SDSS J101807.91+190615.5       10h18m07.9s +19d06m16s *      >30000  0.255000 PHOT 19.7g    ...     2     0    5    1     1    4     1 Retrieve Retrieve 238 
+239  SDSS J101849.78+271914.9       10h18m49.8s +27d19m15s QSO    >30000  2.603340      19.6g    ...     8     0    6    1     4    4     0 Retrieve Retrieve 239 
+240 *2MASS J10185855+5911279        10h18m58.5s +59d11m28s QSO    >30000  2.025000 PHOT 17.26    ...    30     1   22    3     2    4     1 Retrieve Retrieve 240 
+241  2MASS J10195087+6320017        10h19m50.9s +63d20m02s QSO    >30000  2.025000 PHOT 19.28    ...    32     0   27    3     3    4     0 Retrieve Retrieve 241 
+242  2MASX J10201378+6250102        10h20m13.7s +62d50m10s G      >30000  0.249535      18.9g    ...    19     0   51    2     3   10     0 Retrieve Retrieve 242 
+243  SDSS J102100.35+162554.0       10h21m00.3s +16d25m54s *      >30000  1.565000 PHOT 18.5g    ...     2     0    5    1     1    4     2 Retrieve Retrieve 243 
+244  SDSS J102128.87+380643.2       10h21m28.9s +38d06m43s G      >30000  0.466778      20.2g    ...     6     0   43    3     2    8     1 Retrieve Retrieve 244 
+245  SDSS J102130.75+141137.4       10h21m30.7s +14d11m37s G      >30000  0.509964      19.6g    ...     6     0   40    2     2    8     0 Retrieve Retrieve 245 
+246  FBQS J1022-0113                10h22m43.7s -01d13m02s QSO    >30000  2.045000 PHOT 16.9R    ...    37     2   35    1     1    4     0 Retrieve Retrieve 246 
+247  2MASS J10233974+3000577        10h23m39.7s +30d00m58s QSO    >30000  0.433452      19.1g    ...    19     0   17    2     4    4     0 Retrieve Retrieve 247 
+248  2MASS J10245364+2332339        10h24m53.6s +23d32m34s QSO    >30000  0.164653      17.8g    ...    35     0   33    3     3    4     0 Retrieve Retrieve 248 
+249  2MASS J10252304+0402290        10h25m23.0s +04d02m29s G      >30000  0.207743      18.8g    ...    21     0   46    3     2    8     0 Retrieve Retrieve 249 
+250  SDSS J102609.92+253651.2       10h26m09.9s +25d36m51s QSO    >30000  2.318118      19.3g    ...     8     0    1    0     6    0     2 Retrieve Retrieve 250 
+251  SDSS J102659.57+514703.8       10h26m59.6s +51d47m04s QSO    >30000  0.335000 PHOT 20.0g    ...     8     0   14    3     1    4     0 Retrieve Retrieve 251 
+252  SDSS J102703.39+060933.9       10h27m03.4s +06d09m34s G      >30000  0.449535      19.5g    ...     5     0   44    2     2    8     0 Retrieve Retrieve 252 
+253  SDSS J102724.94+631753.0       10h27m24.9s +63d17m53s QSO    >30000  0.580000      18.9g    ...    14     0   13    1     3    4     0 Retrieve Retrieve 253 
+254  SDSS J102732.39+352622.1       10h27m32.4s +35d26m22s QSO    >30000  2.045000 PHOT 19.8g    ...     5     0    6    1     1    4     1 Retrieve Retrieve 254 
+255  2MASS J10282764+0555153        10h28m27.6s +05d55m15s G      >30000  0.233674      19.7g    ...    12     0   45    2     2    8     0 Retrieve Retrieve 255 
+256 *2MASX J10311847+5053358        10h31m18.5s +50d53m36s QSO    >30000  0.360403      17.0g    ...   100     6   63    4     2   10     0 Retrieve Retrieve 256 
+257  SDSS J103208.36+040157.0       10h32m08.4s +04d01m57s G      >30000  0.475000 PHOT 19.2     ...    20     0   22    5     2    4     0 Retrieve Retrieve 257 
+258  SDSS J103220.28+030949.2       10h32m20.3s +03d09m49s G      >30000  0.323207      18.6g    ...    10     0   31    2     4    8     1 Retrieve Retrieve 258 
+259  2MASS J10323905+6623234        10h32m39.1s +66d23m23s QSO       ...       ...      19.1r    ...     5     0    8    0     0    0     0 Retrieve Retrieve 259 
+260 *FBQS J103240.7+373827          10h32m40.7s +37d38m27s QSO    >30000  0.528000      18.3g    ...    31     0   45    5     4    8     0 Retrieve Retrieve 260 
+261  2MASX J10331792+4222365        10h33m17.9s +42d22m36s G      >30000  0.211098      18.5g    ...    24     0   50    2     4   10     0 Retrieve Retrieve 261 
+262  SDSS J103346.39+370825.1       10h33m46.4s +37d08m25s G      >30000  0.446839      20.4g    ...     9     0   38    3     2    8     0 Retrieve Retrieve 262 
+263  SDSS J103507.64+072338.5       10h35m07.6s +07d23m39s QSO    >30000  1.059100      19.9g    ...     3     0   30    2     2    8     0 Retrieve Retrieve 263 
+264  SDSS J103510.81+374929.0       10h35m10.8s +37d49m29s QSO    >30000  0.571000      19.1g    ...     1     0   31    2     3    6     0 Retrieve Retrieve 264 
+265  SDSS J103601.11+084948.4       10h36m01.1s +08d49m48s QSO    >30000  3.682631      20.4g    ...    19     0   26    2    10    8     0 Retrieve Retrieve 265 
+266  2MASS J10364036+1233389        10h36m40.3s +12d33m39s QSO    >30000  2.145000 PHOT 18.4g    ...    11     0   19    3     1    4     0 Retrieve Retrieve 266 
+267  SDSS J103729.78+170149.4       10h37m29.8s +17d01m49s *      >30000  0.622000 TENT 18.8g    ...     2     0    8    1     2    4     0 Retrieve Retrieve 267 
+268  SDSS J103736.09+342730.8       10h37m36.1s +34d27m31s QSO    >30000  1.504640      19.3g    ...     2     0   29    2     3    8     0 Retrieve Retrieve 268 
+269  2MASS J10374429+5711556        10h37m44.3s +57d11m56s QSO    >30000  0.830370      16.7     ...    64     1   32    3     1    4     1 Retrieve Retrieve 269 
+270  SDSS J103806.71+382626.5       10h38m06.7s +38d26m27s QSO    >30000  1.378030      19.1g    ...    12     0   30    2     8    8     1 Retrieve Retrieve 270 
+271  SDSS J103845.88+392735.0       10h38m45.9s +39d27m35s VisS   >30000  0.382000 TENT 19.6g    ...     4     0   10    2     2    4     0 Retrieve Retrieve 271 
+272  SDSS J103852.18+325651.6       10h38m52.2s +32d56m52s G      >30000  0.321037      19.6g    ...     3     0   42    3     2    8     0 Retrieve Retrieve 272 
+273  2MASS J10402901+0947544        10h40m29.0s +09d47m54s G      >30000  0.303549      19.1g    ...    10     0   39    2     2    8     0 Retrieve Retrieve 273 
+274  2MASS J10412563+1324586        10h41m25.6s +13d24m58s G      >30000  0.375000      19.9g    ...     7     0   19    1     2    4     0 Retrieve Retrieve 274 
+275  B3 1038+392                    10h41m49.1s +39d01m20s QSO    >30000  0.208400      18.2g    ...    29     0   52    4     3   10     2 Retrieve Retrieve 275 
+276  SDSS J104255.44+151314.9       10h42m55.4s +15d13m15s QSO    >30000  0.307000      19.4g    ...     5     0    9    1     2    4     2 Retrieve Retrieve 276 
+277  FBQS J104309.0+240835          10h43m09.0s +24d08m35s QSO    >30000  0.563446      16.8i    ...    68     0   48    6     7    4     0 Retrieve Retrieve 277 
+278  SDSS J104323.88+065310.1       10h43m23.9s +06d53m10s QSO    >30000  0.720435      19.9g    ...     3     0   30    2     3    8     0 Retrieve Retrieve 278 
+279  SDSS J104516.30+275133.4       10h45m16.3s +27d51m33s VisS   >30000  2.145000 PHOT 19.3R    ...     4     0   14    1     1    4     1 Retrieve Retrieve 279 
+280  2MASS J10485762+5009453        10h48m57.6s +50d09m45s G      >30000  0.402636      20.1g    ...     8     0   41    2     2    8     1 Retrieve Retrieve 280 
+281  2MASS J10512539+3943251        10h51m25.4s +39d43m26s QSO    >30000  0.498000      18.9g    ...    24     0   15    2     2    4     0 Retrieve Retrieve 281 
+282  2MASX J10534409+4929557        10h53m44.1s +49d29m56s G      >30000  0.140421      17.0g    ...    58     1   61    4     4   10     0 Retrieve Retrieve 282 
+283  2MASS J10543061+2210548        10h54m30.6s +22d10m55s QSO    >30000  2.055000 PHOT 17.9g    ...    26     0   30    3     1    4     0 Retrieve Retrieve 283 
+284  FBQS J105431.8+385521          10h54m31.9s +38d55m22s QSO    >30000  1.371579      17.3g    ...    42     1   39    5     8    8     0 Retrieve Retrieve 284 
+285  SDSS J105451.49+162607.3       10h54m51.5s +16d26m07s G      >30000  0.504854      19.9g    ...     2     0   15    1     3    4     1 Retrieve Retrieve 285 
+286  2MASS J10553863+3052510        10h55m38.6s +30d52m51s G      >30000  0.242722      19.2g    ...    16     0   44    5     3    8     0 Retrieve Retrieve 286 
+287  2MASS J10560659+0252135        10h56m06.6s +02d52m14s G      >30000  0.236126      19.0g    ...    33     0   48    2     2    8     0 Retrieve Retrieve 287 
+288  FBQS J105723.1+230318          10h57m23.1s +23d03m19s QSO    >30000  0.378298      19.5g    ...    21     0   24    1     3    4     0 Retrieve Retrieve 288 
+289  SDSS J105752.79-005908.3       10h57m52.8s -00d59m08s G      >30000  0.467648      19.4g    ...    20     1   29    2     3    8     1 Retrieve Retrieve 289 
+290  B3 1055+433                    10h58m02.9s +43d04m42s QSO    >30000  0.415000 PHOT 21.53    ...    25     0   19    4     1    4     0 Retrieve Retrieve 290 
+291  [HB89] 1055+018                10h58m29.6s +01d33m59s QSO    >30000  0.890000      18.28    ...   425    11  179    8     6    4     0 Retrieve Retrieve 291 
+292  FBQS J105829.8+281746          10h58m29.9s +28d17m46s QSO    >30000  0.415000 PHOT 18.26    ...    23     0   20    3     1    4     0 Retrieve Retrieve 292 
+293 *2MASS J10583771+5628113        10h58m37.7s +56d28m11s QSO    >30000  0.143304      16.5g    ...   115     4   59    4     8    8     0 Retrieve Retrieve 293 
+294  2MASS J10595087+4343147        10h59m50.8s +43d43m15s G      >30000  0.459000      20.2g    ...     9     0   22    1     1    4     0 Retrieve Retrieve 294 
+295  FBQS J110021.0+401927          11h00m21.1s +40d19m28s QSO    >30000  0.225000      17.4g    ...    29     0   16    2     1    4     0 Retrieve Retrieve 295 
+296  2MASS J11012472+4108477        11h01m24.7s +41d08m47s QSO    >30000  2.065000 PHOT 19.1g    ...    14     0   18    2     1    4     0 Retrieve Retrieve 296 
+297  2MASS J11022294+3801225        11h02m23.0s +38d01m23s G      >30000  0.391641      20.1g    ...     8     0   39    3     2    8     1 Retrieve Retrieve 297 
+298  2MASS J11035613+0022362        11h03m56.1s +00d22m36s G      >30000  0.274710      18.9g    ...    13     0   37    4     3    8     0 Retrieve Retrieve 298 
+299  2MASS J11042407+0730532        11h04m24.1s +07d30m53s QSO    >30000  0.630348      17.5g    ...    29     0   41    5     3    8     0 Retrieve Retrieve 299 
+300  SDSS J110704.78+501037.9       11h07m04.8s +50d10m38s G      >30000  0.705406      20.1g    ...    10     0   31    2     3    8     0 Retrieve Retrieve 300 
+301  2MASS J11073589+0222250        11h07m35.9s +02d22m25s QSO    >30000  1.082130      19.0g    ...    17     0   41    2     2    8     0 Retrieve Retrieve 301 
+302 *2MASS J11074808+1502105        11h07m48.1s +15d02m11s QSO    >30000  0.602000      18.0     ...    35     0   24    3     2    4     0 Retrieve Retrieve 302 
+303  SDSS J110839.62+532721.3       11h08m39.6s +53d27m21s QSO    >30000  0.878170      19.9g    ...    17     0   30    2     9    8     0 Retrieve Retrieve 303 
+304  SDSS J110844.76+261532.7       11h08m44.7s +26d15m33s *      >30000  0.435000 PHOT 19.5g    ...     3     0   10    1     1    4     0 Retrieve Retrieve 304 
+305  FBQS J110916.1+241120          11h09m16.1s +24d11m20s QSO    >30000  0.482297      18.7g    ...    25     0   12    1     4    3     0 Retrieve Retrieve 305 
+306  2MASS J11093849+3736113        11h09m38.5s +37d36m12s G      >30000  0.397422      18.7g    ...     8     0   31    2     3    8     0 Retrieve Retrieve 306 
+307  FBQS J111056.8+353907          11h10m56.8s +35d39m07s QSO    >30000  0.435000 PHOT 19.4g    ...    11     0    9    2     1    4     1 Retrieve Retrieve 307 
+308  SDSS J111057.19+170455.7       11h10m57.2s +17d04m56s VisS   >30000  0.445000 PHOT 18.4R    ...    11     0   18    3     1    4     0 Retrieve Retrieve 308 
+309 *SDSS J111105.54+283843.4       11h11m05.5s +28d38m43s QSO    >30000  1.102030      19.5g    ...     4     0    0    0     3    0     0 Retrieve Retrieve 309 
+310  SDSS J111109.10+384856.7       11h11m09.1s +38d48m57s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 310 
+311  SDSS J111130.90+345203.3       11h11m30.9s +34d52m03s QSO    >30000  0.212000      19.6g    ...    22     0   13    2     1    4     0 Retrieve Retrieve 311 
+312  SDSS J111207.95+260803.7       11h12m07.9s +26d08m04s G      >30000  0.449855      19.2g    ...     2     0   15    1     3    4     1 Retrieve Retrieve 312 
+313  SDSS J111224.60+175121.8       11h12m24.6s +17d51m22s QSO    >30000  0.421000      18.6     ...     8     0   14    1     2    4     0 Retrieve Retrieve 313 
+314  SDSS J111316.48+285905.6       11h13m16.5s +28d59m06s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 314 
+315  SDSS J111401.30+222211.4       11h14m01.3s +22d22m12s QSO    >30000  2.121000      18.8g    ...     6     0    9    1     2    4     0 Retrieve Retrieve 315 
+316  SDSS J111457.94+593532.0       11h14m57.9s +59d35m32s QSO    >30000  1.590965      18.5O    ...    23     0   13    1     8    4     0 Retrieve Retrieve 316 
+317  SDSS J111642.81+420324.9       11h16m42.8s +42d03m25s QSO    >30000  2.526929      19.1g    ...    15     0   26    2     7    8     1 Retrieve Retrieve 317 
+318  2MASS J11170625+2014073        11h17m06.2s +20d14m07s G      >30000  0.139200      15.2     ...    66     1   32    3     3    4     1 Retrieve Retrieve 318 
+319  SDSS J111717.53+000633.5       11h17m17.5s +00d06m34s QSO    >30000  0.451362      19.6g    ...    16     0   48    2     3    8     0 Retrieve Retrieve 319 
+320  FBQS J111740.4+254846          11h17m40.4s +25d48m47s QSO    >30000  0.360029      17.0g    ...    15     0   14    1     4    4     0 Retrieve Retrieve 320 
+321  2MASS J11175720+5355545        11h17m57.2s +53d55m55s QSO    >30000  0.720000      17.8g    ...    16     0   35    2     4    8     0 Retrieve Retrieve 321 
+322  FBQS J112048.0+421212          11h20m48.0s +42d12m12s QSO    >30000  0.124000 :    17.3     ...    76     3   27    3     1    4     0 Retrieve Retrieve 322 
+323  2MASS J11205971+0144568        11h20m59.7s +01d44m57s G      >30000  0.367789      19.6g    ...    13     0   37    2     2    8     0 Retrieve Retrieve 323 
+324  SDSS J112211.80+431649.7       11h22m11.8s +43d16m50s G      >30000  0.435437      19.4g    ...     6     0   29    2     3    8     0 Retrieve Retrieve 324 
+325  SDSS J112405.35+204553.7       11h24m05.3s +20d45m54s *      >30000  2.055000 PHOT 18.8g    ...     2     0    5    1     1    4     2 Retrieve Retrieve 325 
+326  SDSS J112448.05+120213.9       11h24m48.0s +12d02m14s G      >30000  0.450935      21.5g    ...     2     0   35    2     2    8     0 Retrieve Retrieve 326 
+327  2MASS J11245388+4934100        11h24m53.8s +49d34m10s G      >30000  2.145000 PHOT 18.0     ...    23     0   18    1     1    4     0 Retrieve Retrieve 327 
+328  SDSS J112503.64+214300.1       11h25m03.6s +21d43m00s *      >30000  2.055000 PHOT 18.5g    ...     3     0    6    1     1    4     1 Retrieve Retrieve 328 
+329  SDSS J112639.68+275513.1       11h26m39.7s +27d55m13s *      >30000  3.285000 PHOT 20.8g    ...     2     0    5    1     1    4     0 Retrieve Retrieve 329 
+330  SDSS J112809.07+022254.5       11h28m09.1s +02d22m55s QSO    >30000  1.698990      19.4g    ...    14     0   29    2    11    8     0 Retrieve Retrieve 330 
+331  SDSS J112914.31+370317.9       11h29m14.3s +37d03m18s QSO    >30000  0.445000 PHOT 18.34    ...    13     0   17    4     1    4     0 Retrieve Retrieve 331 
+332  SDSS J113024.77+281317.6       11h30m24.8s +28d13m18s QSO    >30000  1.099980      19.9g    ...     2     0    9    1     3    4     0 Retrieve Retrieve 332 
+333  SDSS J113039.09-004023.0       11h30m39.1s -00d40m23s QSO    >30000  1.765210      19.1g    ...    26     0   41    2    14    8     0 Retrieve Retrieve 333 
+334 *2MASS J11311549+0234506        11h31m15.5s +02d34m50s G      >30000  1.069000      18.5r    ...     8     0   10    1     3    4     0 Retrieve Retrieve 334 
+335  2MASS J11311861+5808587        11h31m18.6s +58d08m59s G      >30000  0.359646      17.1g    ...    15     0   32    2     3    8     1 Retrieve Retrieve 335 
+336 *2MASS J11324561+0034275        11h32m45.6s +00d34m28s QSO    >30000  1.223033      17.9g    ...    64     0   62    4    11    8     0 Retrieve Retrieve 336 
+337  SDSS J113413.47+001041.9       11h34m13.5s +00d10m42s QSO    >30000  1.485715      18.7g    ...    23     0   47    2    15    8     0 Retrieve Retrieve 337 
+338  SDSS J113503.57+320015.6       11h35m03.6s +32d00m15s G      >30000  0.510629      19.9g    ...     8     0   33    3     3    8     1 Retrieve Retrieve 338 
+339  SDSS J113523.70+660941.0       11h35m23.7s +66d09m41s VisS   >30000  2.075000 PHOT 18.9r    ...     7     0    6    1     2    4     0 Retrieve Retrieve 339 
+340  2MASX J11363009+6737042        11h36m30.1s +67d37m04s G      >30000  0.134232      17.2g    ...    78     2   66    4     4   10     0 Retrieve Retrieve 340 
+341  SDSS J113747.64+391941.5       11h37m47.6s +39d19m42s QSO    >30000  2.395509      19.4g    ...    14     0   26    2     8    8     0 Retrieve Retrieve 341 
+342  2MASS J11381218+4113531        11h38m12.2s +41d13m53s G      >30000  0.573711      20.3g    ...     7     0   32    3     3    8     0 Retrieve Retrieve 342 
+343 *SDSS J113900.55-020140.0       11h39m00.5s -02d01m40s G      >30000  1.903000      19.8g    ...     8     1   45    2     3    8     1 Retrieve Retrieve 343 
+344  2MASX J11402348+1528094        11h40m23.5s +15d28m10s G      >30000  0.244284      17.8g    ...    15     0   46    2     3   10     0 Retrieve Retrieve 344 
+345  SDSS J114038.90+100535.3       11h40m38.9s +10d05m35s G      >30000  0.489297      19.5g    ...     2     0   35    2     2    8     0 Retrieve Retrieve 345 
+346  SDSS J114137.13-002729.8       11h41m37.1s -00d27m30s QSO    >30000  0.832275      18.4i    ...    24     0   27    1    12    4     0 Retrieve Retrieve 346 
+347  SDSS J1141+0219                11h41m53.3s +02d19m24s QSO    >30000  3.480672      19.4g    ...    36     0   32    2    12    8     0 Retrieve Retrieve 347 
+348  SDSS J114221.76+334201.7       11h42m21.7s +33d42m02s G      >30000  0.409394      19.5g    ...     7     0   27    3     3    8     1 Retrieve Retrieve 348 
+349  2MASS J11431211+6122107        11h43m12.1s +61d22m11s QSO    >30000  0.475000 PHOT 17.49    ...    23     0   16    3     2    4     1 Retrieve Retrieve 349 
+350  LCRS B114301.7-032322          11h45m35.1s -03d40m02s QSO    >30000  0.167907      18.2g    ...    29     2   54    5     6   10     0 Retrieve Retrieve 350 
+351 *SDSS J114837.77+184009.0       11h48m37.8s +18d40m09s *      >30000  0.405000 PHOT 19.9g    ...    20     0   19    3     1    4     0 Retrieve Retrieve 351 
+352  SDSS J114926.13+624332.4       11h49m26.1s +62d43m33s G      >30000  0.762000 :    18.9r    ...     6     0   10    1     2    4     0 Retrieve Retrieve 352 
+353  SDSS J114930.35+243927.0       11h49m30.3s +24d39m27s QSO    >30000  0.401775      18.6g    ...     4     0    5    1     4    4     1 Retrieve Retrieve 353 
+354  SDSS J114955.67+103508.1       11h49m55.7s +10d35m08s QSO    >30000  1.083880      19.4g    ...     4     0   27    2     2    8     0 Retrieve Retrieve 354 
+355  FBQS J115019.2+241753          11h50m19.2s +24d17m54s QSO    >30000  0.200000      17.57    ...   206    11   89    8     4    4     1 Retrieve Retrieve 355 
+356  FBQS J115034.7+415440          11h50m34.7s +41d54m40s QSO    >30000  1.018000      17.05    ...    29     0   21    2     1    4     0 Retrieve Retrieve 356 
+357  2MASS J11512466+5859176        11h51m24.6s +58d59m18s QSO    >30000  0.118000 EST  17.3     ...    61     1   36    3     1    4     0 Retrieve Retrieve 357 
+358  FBQS J115210.7+283721          11h52m10.7s +28d37m21s QSO    >30000  0.441255      19.5g    ...    13     0   25    2     3    4     0 Retrieve Retrieve 358 
+359  2MASS J11522215+1531479        11h52m22.2s +15d31m48s QSO    >30000  1.054000      21.0g    ...     6     0    7    1     2    4     0 Retrieve Retrieve 359 
+360  SDSS J115244.85+340638.9       11h52m44.8s +34d06m39s G         ...       ...      21.0g    ...     4     0   17    2     0    4     0 Retrieve Retrieve 360 
+361  FBQS J115251.9+330718          11h52m51.9s +33d07m19s QSO    >30000  1.397596      16.2g    ...    46     0   43    6     8    8     1 Retrieve Retrieve 361 
+362  FBQS J115326.7+361726          11h53m26.7s +36d17m26s QSO    >30000  1.360856      17.3g    ...    33     0   38    5     8    8     0 Retrieve Retrieve 362 
+363  FBQS J115342.9+382305          11h53m42.9s +38d23m06s G      >30000  0.410456      19.2g    ...    18     0   40    6     4    8     1 Retrieve Retrieve 363 
+364  SDSS J115353.35+502633.9       11h53m53.3s +50d26m34s QSO    >30000  0.868529      18.9g    ...     3     0   29    2     4    8     0 Retrieve Retrieve 364 
+365  2MASS J11540456-0010096        11h54m04.5s -00d10m10s G      >30000  0.253431      18.7g    ...    41     0   51    2     4    8     0 Retrieve Retrieve 365 
+366  SDSS J115518.26+092641.2       11h55m18.3s +09d26m41s QSO    >30000  0.666737      19.7g    ...     6     0   31    2     3    8     0 Retrieve Retrieve 366 
+367  SDSS J115548.40+613553.8       11h55m48.4s +61d35m54s G      >30000  1.525000 PHOT 18.8r    ...     6     0   11    1     2    4     0 Retrieve Retrieve 367 
+368  SDSS J115637.02+184856.5       11h56m37.0s +18d48m57s QSO    >30000  1.956000      18.4g    ...     9     0    5    1     3    4     1 Retrieve Retrieve 368 
+369  FBQS J1157+2822                11h57m09.5s +28d22m01s G      >30000  0.300168      19.1g    ...    15     0   35    2     4    6     0 Retrieve Retrieve 369 
+370  SDSS J115851.19+330847.5       11h58m51.2s +33d08m48s G      >30000  0.309952      19.8g    ...     2     0   35    2     3    8     0 Retrieve Retrieve 370 
+371  SDSS J115854.37+093711.7       11h58m54.4s +09d37m12s QSO    >30000  0.389667      18.7g    ...    10     0   31    2     3    8     0 Retrieve Retrieve 371 
+372  SDSS J115959.71+410152.9       11h59m59.7s +41d01m53s QSO    >30000  2.746686      17.8g    ...    16     0   30    2     8    8     0 Retrieve Retrieve 372 
+373  SDSS J120059.68+400913.1       12h00m59.7s +40d09m13s QSO    >30000  3.366655      20.2g    ...    20     0   29    3     8    8     0 Retrieve Retrieve 373 
+374  2MASX J12010620-0007020        12h01m06.2s -00d07m02s G      >30000  0.165146      18.0g    ...    27     0   60    4     6   10     0 Retrieve Retrieve 374 
+375 *B3 1159+450                    12h02m08.6s +44d44m22s QSO    >30000  0.296843      18.4g    ...    28     2   51    5     3    8     0 Retrieve Retrieve 375 
+376  2MASS J12025706+3851476        12h02m57.1s +38d51m48s QSO    >30000  0.805000      19.1g    ...     7     0   13    2     2    4     1 Retrieve Retrieve 376 
+377  SBS 1200+608                   12h03m03.5s +60d31m19s G       19666  0.065600      16.0g    ...    59     1   65    4     5   10     2 Retrieve Retrieve 377 
+378  SDSS J120331.67+543009.0       12h03m31.7s +54d30m09s G      >30000  0.477645      19.8g    ...     3     0   20    1     2    4     2 Retrieve Retrieve 378 
+379  SDSS J120355.33+581945.5       12h03m55.3s +58d19m46s G      >30000  0.405000 PHOT 19.0g    ...     9     0   12    3     1    4     0 Retrieve Retrieve 379 
+380  2MASS J12041209+1145554        12h04m12.1s +11d45m55s G      >30000  0.296221      18.2g    ...    26     0   42    2     2    8     1 Retrieve Retrieve 380 
+381  SDSS J120435.37+231607.2       12h04m35.4s +23d16m07s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 381 
+382  SDSS J120543.30+582933.7       12h05m43.3s +58d29m34s QSO    >30000  1.083000 TENT 20.1g    ...     2     0    5    1     2    4     2 Retrieve Retrieve 382 
+383  SDSS J120658.02+052952.2       12h06m58.0s +05d29m52s G      >30000  0.791100      22.29    ...    29     0   14    4     4    4     0 Retrieve Retrieve 383 
+384  SDSS J120709.97+171549.3       12h07m10.0s +17d15m49s *      >30000  2.055000 PHOT 19.6g    ...     2     0    5    1     1    3     2 Retrieve Retrieve 384 
+385  SDSS J120804.32+301550.4       12h08m04.3s +30d15m50s *      >30000  2.085000 PHOT 19.0g    ...     6     0   16    2     1    4     0 Retrieve Retrieve 385 
+386  2MASX J12083705+6121069        12h08m37.1s +61d21m06s G      >30000  0.274783      18.5g    ...    20     0   55    4     2   10     1 Retrieve Retrieve 386 
+387  2MASS J12083727+1159377        12h08m37.3s +11d59m38s G      >30000  0.369000      18.8g    ...     7     0   19    1     1    4     1 Retrieve Retrieve 387 
+388 *FBQS J120922.7+411941          12h09m22.8s +41d19m41s QSO    >30000  0.377000      16.3     ...    69     3   35    5     2    4     0 Retrieve Retrieve 388 
+389  SDSS J120938.32+021017.1       12h09m38.3s +02d10m17s G      >30000  2.085000 PHOT 19.3g    ...    11     0    7    1     1    4     0 Retrieve Retrieve 389 
+390  SDSS J121002.66+324058.9       12h10m02.7s +32d40m59s *      >30000  2.145000 PHOT 19.9g    ...     3     0   11    2     1    4     0 Retrieve Retrieve 390 
+391  [HB89] 1207+397                12h10m26.6s +39d29m08s QSO    >30000  0.616935      19.8g    ...    87     4   51    5     4    8     0 Retrieve Retrieve 391 
+392  SDSS J121037.35+525341.9       12h10m37.3s +52d53m42s QSO    >30000  0.917500      18.9g    ...    19     0   30    2    10    8     0 Retrieve Retrieve 392 
+393  SDSS J121051.65+313659.9       12h10m51.6s +31d37m00s WD*       ...       ...       ...     ...     1     0    9    1     0    4     0 Retrieve Retrieve 393 
+394  SDSS J121103.28-002005.2       12h11m03.3s -00d20m05s G      >30000  0.319065      20.7g    ...    10     0   41    4     3    8     0 Retrieve Retrieve 394 
+395  SDSS J121221.56+534127.8       12h12m21.5s +53d41m28s QSO    >30000  3.097615      19.1g    ...    28     0   35    2    10    8     0 Retrieve Retrieve 395 
+396  2MASS J12130079+5129358        12h13m00.8s +51d29m36s G      >30000  0.795700 :    18.4     ...    12     0   15    1     1    4     0 Retrieve Retrieve 396 
+397 *SDSS J121348.80+642520.1       12h13m48.8s +64d25m20s G      >30000  0.415700      19.2r    ...     6     0   10    1     3    4     0 Retrieve Retrieve 397 
+398  2MASS J12150080+5002157        12h15m00.8s +50d02m16s QSO    >30000  1.545000 PHOT 17.4r    ...    17     0   10    1     1    4     0 Retrieve Retrieve 398 
+399  SDSS J121508.85+350813.4       12h15m08.9s +35d08m13s G      >30000  0.883400      21.2g    ...     7     0   45    6     3    8     1 Retrieve Retrieve 399 
+400  2MASS J12151799+5459135        12h15m18.0s +54d59m13s G      >30000  0.337825      19.8g    ...     7     0   40    2     2    8     1 Retrieve Retrieve 400 
+401  SDSS J121649.97+054136.7       12h16m50.0s +05d41m37s G      >30000  0.415000 PHOT 19.7r    ...     6     0    6    1     1    4     1 Retrieve Retrieve 401 
+402  PKS 1215-002                   12h17m58.7s -00d29m46s G      >30000  0.418406      18.2g    ...    47     0   47    5     5    8     0 Retrieve Retrieve 402 
+403  SDSS J121929.45+471522.8       12h19m29.4s +47d15m23s *      >30000  1.336000 TENT 17.6g    ...     1     0    5    1     1    3     0 Retrieve Retrieve 403 
+404  2MASS J12194495+0446225        12h19m45.0s +04d46m22s G      >30000  0.489151      18.2g    ...    10     0   31    2     3    8     0 Retrieve Retrieve 404 
+405 *FBQS J122008.3+343121          12h20m08.3s +34d31m22s QSO    >30000  0.643000      18.1g    ...    70     0   53    5     8    4     1 Retrieve Retrieve 405 
+406  SDSS J122012.14-000306.7       12h20m12.1s -00d03m07s QSO    >30000  1.000000      19.3g    ...    13     0   14    1     5    4     0 Retrieve Retrieve 406 
+407  FBQS J1221+3010                12h21m21.9s +30d10m37s G      >30000  0.183648      16.1g    ...   220     6   81    6     5    6     0 Retrieve Retrieve 407 
+408  W Com                          12h21m31.7s +28d13m59s QSO    >30000  0.102000      16.5     ...   455     8   92   10     5    4     1 Retrieve Retrieve 408 
+409  SDSS J122211.42+354058.3       12h22m11.4s +35d40m58s QSO    >30000  2.145000 PHOT 19.0g    ...     6     0   10    1     1    4     1 Retrieve Retrieve 409 
+410  2MASS J12230027+5153137        12h23m00.3s +51d53m14s G      >30000  0.365025      20.3g    ...     8     0   39    2     2    8     0 Retrieve Retrieve 410 
+411  LBQS 1221+1745                 12h23m34.9s +17d28m43s QSO    >30000  1.354000      18.65    ...    22     0   19    2     4    4     0 Retrieve Retrieve 411 
+412  2MASX J12235302+4650485        12h23m53.0s +46d50m49s G      >30000  0.260544      18.9g    ...    16     0   56    2     3   10     0 Retrieve Retrieve 412 
+413 *B3 1222+438                    12h24m51.5s +43d35m19s QSO    >30000  1.074910      20.7g    ...    40     0   47    5     3    8     0 Retrieve Retrieve 413 
+414  SDSS J122801.59+330035.5       12h28m01.6s +33d00m36s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 414 
+415  SDSS J122809.13-022136.1       12h28m09.1s -02d21m36s G      >30000  0.322842      20.0g    ...    14     0   47    2     3    8     0 Retrieve Retrieve 415 
+416  2MASX J12312389+1421244        12h31m23.9s +14d21m25s G      >30000  0.255767      17.8g    ...    29     1   40    3     2    6     2 Retrieve Retrieve 416 
+417  [HB89] 1229+645                12h31m31.4s +64d14m18s G      >30000  0.162940      17.4g    ...   110     6   77    6     4   10     0 Retrieve Retrieve 417 
+418  SDSS J123132.37+013813.9       12h31m32.4s +01d38m14s QSO    >30000  3.229234      18.7r    ...    26     0    2    0     7    0     0 Retrieve Retrieve 418 
+419 *FBQS J123143.5+284749          12h31m43.6s +28d47m50s QSO    >30000  0.236000      17.5B    ...    46     1   27    4     2    4     1 Retrieve Retrieve 419 
+420  LBQS 1230+1718                 12h33m05.1s +17d01m33s *      >30000  2.045000 PHOT 17.96    ...     7     0   14    1     1    4     0 Retrieve Retrieve 420 
+421  2MASS J12334134-0144237        12h33m41.3s -01d44m24s QSO    >30000  2.145000 PHOT 18.3r    ...    16     0   25    1     1    4     0 Retrieve Retrieve 421 
+422 *2MASS J12343896+3910470        12h34m38.9s +39d10m47s G      >30000  0.584324      20.2g    ...     7     0   46    3     2    8     0 Retrieve Retrieve 422 
+423  SDSS J123528.85+170036.6       12h35m28.8s +17d00m37s G      >30000  0.381000      19.9g    ...     2     0   19    1     1    4     2 Retrieve Retrieve 423 
+424  SDSS J123618.89+032455.9       12h36m18.9s +03d24m56s G       13971  0.046601      19.2g    ...     6     0   25    2     5    8     1 Retrieve Retrieve 424 
+425  FBQS J123623.0+390001          12h36m23.0s +39d00m01s QSO    >30000  0.389479      18.8g    ...    22     0   52    5     2    8     0 Retrieve Retrieve 425 
+426  SDSS J123705.61+302004.9       12h37m05.6s +30d20m05s QSO    >30000  0.700000      20.1g    ...    21     2   13    2     1    4     0 Retrieve Retrieve 426 
+427  [HB89] 1235+632                12h37m39.1s +62d58m43s QSO    >30000  0.296903      18.4g    ...    81     1   41    4     3    8     1 Retrieve Retrieve 427 
+428  SDSS J1237+6301                12h37m43.1s +63d01m45s QSO    >30000  3.425000      20.1g    ...    28     0   35    2    11    8     0 Retrieve Retrieve 428 
+429  SDSS J123826.01+443137.1       12h38m26.0s +44d31m37s G      >30000  0.312076      20.3g    ...     7     0   37    2     2    8     0 Retrieve Retrieve 429 
+430  2MASX J12383128+5406524        12h38m31.2s +54d06m52s G      >30000  0.223680      18.5g    ...    16     0   50    2     3   10     0 Retrieve Retrieve 430 
+431  SDSS J123931.16+405446.4       12h39m31.1s +40d54m46s QSO    >30000  1.348210      19.6g    ...     3     0   29    2     4    8     0 Retrieve Retrieve 431 
+432  SDSS J124030.93+344527.5       12h40m30.9s +34d45m28s QSO    >30000  1.642396      19.4g    ...    10     0   26    2     7    8     2 Retrieve Retrieve 432 
+433  SDSS J124109.43+340038.1       12h41m09.4s +34d00m38s *      >30000  2.065000 PHOT 19.7g    ...     6     0   12    2     1    4     0 Retrieve Retrieve 433 
+434  SDSS J124141.38+344031.0       12h41m41.4s +34d40m31s QSO    >30000  2.055000 PHOT 19.9g    ...    21     0    8    2     1    4     1 Retrieve Retrieve 434 
+435  SDSS J124203.13+085048.1       12h42m03.1s +08d50m48s QSO    >30000  1.609000      19.6g    ...     2     0    5    1     2    4     0 Retrieve Retrieve 435 
+436  2MASX J12422548+6429188        12h42m25.4s +64d29m19s G       12734  0.042476      16.6g    ...    14     0   51    2     3   10     0 Retrieve Retrieve 436 
+437 *FBQS J124312.6+362743          12h43m12.7s +36d27m44s QSO    >30000  1.065400      16.1g    ...    64     2   43    5     5    4     0 Retrieve Retrieve 437 
+438  SDSS J124406.73+494936.0       12h44m06.7s +49d49m36s QSO    >30000  2.222983      19.5g    ...    16     0   26    2     8    8     0 Retrieve Retrieve 438 
+439  2MASS J12442530+0445001        12h44m25.3s +04d45m00s G      >30000  0.400297      20.1g    ...     7     0   40    2     1    8     0 Retrieve Retrieve 439 
+440  SDSS J124444.35+161621.7       12h44m44.3s +16d16m22s G      >30000  0.456000      19.8g    ...     2     0   15    1     1    4     2 Retrieve Retrieve 440 
+441 *SDSS J124510.00+570954.3       12h45m10.0s +57d09m54s QSO    >30000  1.544870      17.9g    ...    21     0   37    2     2    8     0 Retrieve Retrieve 441 
+442  SDSS J124533.79+022825.1       12h45m33.8s +02d28m25s QSO    >30000  1.096000      19.0r    ...     6     0   14    1     1    4     0 Retrieve Retrieve 442 
+443  SDSS J124602.52+011318.7       12h46m02.5s +01d13m19s G      >30000  0.386823      17.4g    ...    20     0   35    3     6    8     1 Retrieve Retrieve 443 
+444 *SDSS J124700.72+442318.7       12h47m00.7s +44d23m19s QSO    >30000  1.811570      18.9g    ...    18     0   32    2     4    8     0 Retrieve Retrieve 444 
+445  SDSS J124745.39+325147.0       12h47m45.4s +32d51m47s QSO    >30000  2.249400      18.9g    ...     8     0    9    1     6    4     0 Retrieve Retrieve 445 
+446  SDSS J124805.38+141140.3       12h48m05.4s +14d11m40s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 446 
+447  SBS 1246+586                   12h48m18.8s +58d20m29s QSO    >30000  0.847394      15.6g    ...   106     3   61    5     6    8     0 Retrieve Retrieve 447 
+448 *2MASX J12483429+5128077        12h48m34.3s +51d28m08s G      >30000  0.350853      18.2g    ...    28     1   54    4     3   10     0 Retrieve Retrieve 448 
+449  SDSS J124946.74+370747.7       12h49m46.7s +37d07m48s *      >30000  1.445000 PHOT 19.1g    ...     3     0    7    2     1    4     1 Retrieve Retrieve 449 
+450 *SDSS J125015.53+315559.5       12h50m15.5s +31d56m00s QSO      1205  0.004020      19.1g    ...    14     1   14    2     3    4     0 Retrieve Retrieve 450 
+451  PKS 1247+025                   12h50m32.6s +02d16m32s G         ...       ...      20.0     ...    15     0   12    1     0    0     0 Retrieve Retrieve 451 
+452  SDSS J125117.88+103907.2       12h51m17.9s +10d39m07s G      >30000  0.245000      19.0g    ...     5     0   15    1     1    4     1 Retrieve Retrieve 452 
+453  FBQS J125219.4+264053          12h52m19.5s +26d40m54s QSO    >30000  1.288311      18.0g    ...    18     0   22    1     8    4     0 Retrieve Retrieve 453 
+454  SDSS J125234.58+084944.0       12h52m34.6s +08d49m44s QSO    >30000  0.424000      19.4g    ...     2     0   10    1     2    4     0 Retrieve Retrieve 454 
+455  SDSS J125234.66+293732.6       12h52m34.7s +29d37m33s QSO    >30000  0.528673      19.5g    ...     5     0   16    2     4    4     0 Retrieve Retrieve 455 
+456  2MASS J12530097+3826259        12h53m00.9s +38d26m26s G      >30000  0.370856      19.6g    ...    19     0   22    2     3    4     0 Retrieve Retrieve 456 
+457  SDSS J125307.45+220359.1       12h53m07.4s +22d03m59s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 457 
+458  2MASS J12531190+5301117        12h53m11.9s +53d01m12s QSO    >30000  0.445000 PHOT 16.4     ...    70     2   32    3     1    4     1 Retrieve Retrieve 458 
+459  2MASS J12535933+6242579        12h53m59.3s +62d42m58s QSO    >30000  0.867000      18.3V    ...    19     0   15    1     1    4     0 Retrieve Retrieve 459 
+460  SDSS J125433.27+221103.7       12h54m33.3s +22d11m04s *      >30000  2.065000 PHOT 17.6g    ...     2     0    5    1     1    4     2 Retrieve Retrieve 460 
+461  SDSS J125555.40+384811.3       12h55m55.4s +38d48m12s *      >30000  0.559000 TENT 19.5g    ...     3     0    8    2     2    4     1 Retrieve Retrieve 461 
+462  SDSS J125639.35+060908.0       12h56m39.3s +06d09m08s G      >30000  0.422955      19.6g    ...    11     0   36    2     2    8     1 Retrieve Retrieve 462 
+463  FBQS J125716.5+364715          12h57m16.6s +36d47m15s QSO    >30000  0.530688      18.1g    ...    36     0    9    2     4    4     0 Retrieve Retrieve 463 
+464  2MASS J12582083+6120453        12h58m20.8s +61d20m46s G      >30000  0.223631      19.0g    ...     8     0   40    2     2    8     0 Retrieve Retrieve 464 
+465  SDSS J125905.02+222716.5       12h59m05.0s +22d27m17s G         ...       ...      20.8g    ...     1     0   15    1     0    4     1 Retrieve Retrieve 465 
+466  SDSS J130008.52+175538.0       13h00m08.5s +17d55m38s *      >30000  1.545000 PHOT 20.2g    ...     2     0    5    1     1    4     1 Retrieve Retrieve 466 
+467 *SDSS J130032.78+535112.4       13h00m32.8s +53d51m12s QSO    >30000  1.078530      19.3g    ...     5     0   30    2     2    8     0 Retrieve Retrieve 467 
+468  FBQS J130145.6+405624          13h01m45.7s +40d56m25s QSO    >30000  0.649000      17.5     ...    22     0   16    4     2    4     0 Retrieve Retrieve 468 
+469  2MASS J13014635+4416192        13h01m46.3s +44d16m19s G      >30000  0.435000 PHOT 17.36    ...    12     0   12    3     1    4     0 Retrieve Retrieve 469 
+470  SDSS J130255.35+505618.2       13h02m55.3s +50d56m18s QSO    >30000  0.688000      20.2     ...    22     1   11    1     1    4     0 Retrieve Retrieve 470 
+471  SDSS J130312.89+321911.4       13h03m12.9s +32d19m11s QSO    >30000  0.638170      18.4i    ...     9     0   13    1     4    4     0 Retrieve Retrieve 471 
+472  2MASS J13053124+3855218        13h05m31.2s +38d55m22s G      >30000  0.376133      19.7g    ...     5     0   35    2     2    8     1 Retrieve Retrieve 472 
+473  B3 1307+433                    13h09m25.5s +43d05m06s QSO    >30000  0.690000 TENT 16.97    ...    33     1   27    4     2    4     0 Retrieve Retrieve 473 
+474  [HB89] 1307+121                13h09m33.9s +11d54m25s QSO    >30000  0.415000 PHOT 18.5     ...    97     0   52    4     1    4     0 Retrieve Retrieve 474 
+475 *SDSS J130941.35+112540.1       13h09m41.3s +11d25m40s QSO    >30000  1.362354      19.8g    ...    16     0   30    2     8    8     0 Retrieve Retrieve 475 
+476  SDSS J131059.77+560140.2       13h10m59.8s +56d01m40s QSO    >30000  1.284974      18.5g    ...    19     0   26    2     9    8     0 Retrieve Retrieve 476 
+477 *LBQS 1308+0051                 13h11m06.5s +00d35m10s G         692  0.002307      18.2g    ...    29     0   33    2     4    6     0 Retrieve Retrieve 477 
+478  SDSS J131146.02+395317.5       13h11m46.0s +39d53m17s QSO    >30000  0.255000 PHOT 20.3g    ...     5     0   17    2     1    4     1 Retrieve Retrieve 478 
+479  LBQS 1310+0216                 13h13m30.1s +02d01m06s G      >30000  0.355693      19.1g    ...    20     0   46    2     3    8     0 Retrieve Retrieve 479 
+480  FBQS J131443.8+234826          13h14m43.8s +23d48m27s QSO    >30000  2.145000 PHOT 16.70    ...    47     0   45    4     1    4     0 Retrieve Retrieve 480 
+481  2MASS J13193174+1405327        13h19m31.7s +14d05m33s QSO    >30000  0.572984      18.0g    ...    28     0   42    4     3    8     0 Retrieve Retrieve 481 
+482  SDSS J131935.27+272502.2       13h19m35.3s +27d25m02s *      >30000  0.435000 PHOT 20.1g    ...     2     0    5    1     1    4     1 Retrieve Retrieve 482 
+483  SDSS J132130.21+481719.1       13h21m30.2s +48d17m19s QSO    >30000  1.413340      18.8g    ...    15     0   30    2    11    8     0 Retrieve Retrieve 483 
+484  SDSS J132138.85+010846.3       13h21m38.8s +01d08m46s QSO    >30000  1.422498      19.1g    ...    18     0   31    2    13    8     0 Retrieve Retrieve 484 
+485  SDSS J132231.46+134429.8       13h22m31.5s +13d44m30s G      >30000  0.376698      19.8g    ...     4     0   15    1     3    4     1 Retrieve Retrieve 485 
+486  SDSS J132239.31+494336.2       13h22m39.3s +49d43m36s G      >30000  0.332479      20.0g    ...    13     0   36    2     2    8     0 Retrieve Retrieve 486 
+487  SDSS J132247.40+321608.5       13h22m47.4s +32d16m09s *      >30000  2.065000 PHOT 19.3g    ...     2     0    5    1     1    4     0 Retrieve Retrieve 487 
+488  2MASX J13230099+0439514        13h23m01.0s +04d39m51s G      >30000  0.224373      19.1g    ...    26     0   49    2     3   10     0 Retrieve Retrieve 488 
+489  SDSS J132358.36+140559.4       13h23m58.3s +14d05m59s QSO    >30000  0.773000      18.2     ...    12     0    8    3     2    4     1 Retrieve Retrieve 489 
+490  SDSS J132541.91-022810.1       13h25m41.9s -02d28m10s G      >30000  0.807300 :    19.9b    ...    11     0    9    1     3    4     1 Retrieve Retrieve 490 
+491  SDSS J132614.99+293330.9       13h26m15.0s +29d33m31s *      >30000  0.430000 TENT 18.5g    ...     4     0    5    1     2    4     0 Retrieve Retrieve 491 
+492 *2MASX J13261766+1229585        13h26m17.7s +12d29m59s G      >30000  0.204153      18.3g    ...    18     0   48    2     3   10     0 Retrieve Retrieve 492 
+493  SDSS J132703.26+341321.7       13h27m03.2s +34d13m22s QSO    >30000  2.556700      19.1g    ...    13     0   26    2     7    8     0 Retrieve Retrieve 493 
+494  SDSS J132758.05+441326.7       13h27m58.0s +44d13m27s QSO    >30000  1.372236      17.8g    ...    14     0   30    2     7    6     0 Retrieve Retrieve 494 
+495  SDSS J132758.95+252746.4       13h27m58.9s +25d27m46s VisS   >30000  2.225000 PHOT 19.1R    ...     4     0   14    1     1    4     0 Retrieve Retrieve 495 
+496  2MASS J13275991+6458118        13h27m59.7s +64d58m11s G      >30000  0.446930      19.7g    ...     8     0   36    2     2    8     0 Retrieve Retrieve 496 
+497  SDSS J132802.09+112913.6       13h28m02.1s +11d29m14s G      >30000  1.313000      18.5g    ...     4     0    6    1     2    4     0 Retrieve Retrieve 497 
+498  SBS 1326+551                   13h28m09.6s +54d54m53s QSO    >30000  2.095530      18.0g    ...    18     0   26    2    10    8     0 Retrieve Retrieve 498 
+499  SDSS J132833.56+114520.5       13h28m33.6s +11d45m21s G      >30000  0.490000      19.6     ...    13     0    7    1     1    4     1 Retrieve Retrieve 499 
+500  SDSS J133021.52+444120.3       13h30m21.5s +44d41m20s QSO    >30000  2.145000 PHOT 18.6     ...     8     0    6    1     1    4     2 Retrieve Retrieve 500 
+501  SDSS J133026.52+241521.5       13h30m26.5s +24d15m21s G      >30000  0.463000      19.9g    ...    13     0   29    1     2    4     0 Retrieve Retrieve 501 
+502  SDSS J133040.69+565520.1       13h30m40.7s +56d55m20s QSO    >30000  1.060250      19.5g    ...     5     0   30    2     2    8     0 Retrieve Retrieve 502 
+503  SDSS J133046.70-000543.6       13h30m46.7s -00d05m44s G      >30000  0.242327      19.3g    ...     5     0   36    3     2    8     0 Retrieve Retrieve 503 
+504  2MASS J13310292+5655416        13h31m02.9s +56d55m42s G      >30000  0.270012      19.4g    ...    12     0   39    2     2    8     0 Retrieve Retrieve 504 
+505  2MASS J13310569-0022208        13h31m05.7s -00d22m21s G      >30000  0.242561      19.5g    ...    18     0   43    3     2    8     0 Retrieve Retrieve 505 
+506 *2MASS J13313344+1712507        13h31m33.4s +17d12m51s QSO    >30000  0.405000 PHOT 18.4B    ...    21     0   24    3     1    4     0 Retrieve Retrieve 506 
+507  SDSS J1332+0347                13h32m22.6s +03d47m40s QSO    >30000  1.446906      18.5g    ...    23     0   37    2    10    8     0 Retrieve Retrieve 507 
+508  SDSS J133312.77+293554.2       13h33m12.8s +29d35m54s QSO    >30000  1.555000      19.7g    ...     1     0   25    2     3    8     0 Retrieve Retrieve 508 
+509  SDSS J133319.26+245046.6       13h33m19.3s +24d50m47s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 509 
+510  SDSS J133325.99+623541.7       13h33m26.0s +62d35m42s QSO    >30000  0.625000      20.0g    ...     8     0   11    1     2    4     0 Retrieve Retrieve 510 
+511  SDSS J133336.72+155409.7       13h33m36.7s +15d54m10s *      >30000  1.915000 PHOT 19.1g    ...     2     0    5    1     1    4     0 Retrieve Retrieve 511 
+512  SDSS J133605.59+210526.4       13h36m05.6s +21d05m26s *      >30000  0.435000 PHOT 20.0g    ...     2     0    5    1     1    4     1 Retrieve Retrieve 512 
+513  SDSS J133612.16+231958.0       13h36m12.1s +23d19m58s G      >30000  0.267000      19.1g    ...     4     0   15    1     1    4     1 Retrieve Retrieve 513 
+514  2MASS J13385905+1153164        13h38m59.0s +11d53m17s QSO    >30000  1.589000      18.2g    ...    15     0   12    1     1    4     0 Retrieve Retrieve 514 
+515  SDSS J133910.80+080024.4       13h39m10.8s +08d00m24s *      >30000  2.145000 PHOT 19.5g    ...     2     0    5    1     1    4     1 Retrieve Retrieve 515 
+516 *2MASS J13402976+4410040        13h40m29.8s +44d10m04s QSO    >30000  0.545919      19.2g    ...    36     0   45    4     2    8     2 Retrieve Retrieve 516 
+517  SDSS J134037.58-014847.6       13h40m37.6s -01d48m48s G      >30000  0.512822      20.5g    ...     8     0   39    2     3    8     0 Retrieve Retrieve 517 
+518  2MASS J13410510+3959454        13h41m05.1s +39d59m45s G      >30000  0.172000      17.9g    ...    23     0   21    1     1    4     2 Retrieve Retrieve 518 
+519  SBS 1339+554                   13h41m36.2s +55d14m38s QSO    >30000  0.206949      18.4g    ...    26     0   44    4     2    8     0 Retrieve Retrieve 519 
+520  SDSS J134145.08+190536.7       13h41m45.1s +19d05m37s *      >30000  2.055000 PHOT 20.0g    ...     3     0    6    1     1    4     1 Retrieve Retrieve 520 
+521  SDSS J134156.62+133845.3       13h41m56.6s +13d38m45s WD*       ...       ...       ...     ...     1     0    9    1     0    3     0 Retrieve Retrieve 521 
+522  SDSS J134240.33+093911.2       13h42m40.3s +09d39m11s VisS   >30000  1.915000 PHOT 19.6g    ...     3     0    5    1     1    4     0 Retrieve Retrieve 522 
+523  SDSS J134601.28+585820.2       13h46m01.3s +58d58m20s QSO    >30000  1.667294      18.0g    ...    18     0   34    2     8    8     0 Retrieve Retrieve 523 
+524  2MASX J13463397+2440582        13h46m34.0s +24d40m58s G      >30000  0.167492      18.2g    ...    13     0   49    2     3   10     0 Retrieve Retrieve 524 
+525  2MASX J13485338+0756478        13h48m53.4s +07d56m48s G      >30000  0.249579      18.3g    ...    13     0   31    1     4    6     0 Retrieve Retrieve 525 
+526  SDSS J134951.93+382334.1       13h49m51.9s +38d23m34s QSO    >30000  1.093618      20.7g    ...    13     0   31    3     7    8     0 Retrieve Retrieve 526 
+527  2MASS J13512084+1114530        13h51m20.8s +11d14m53s QSO    >30000  1.995000 PHOT 18.8g    ...    28     0   30    1     1    4     0 Retrieve Retrieve 527 
+528  SDSS J135158.20+554210.8       13h51m58.2s +55d42m11s QSO    >30000  0.389321      19.7g    ...    14     0   35    4     3    8     0 Retrieve Retrieve 528 
+529  2MASX J13531412+3741142        13h53m14.1s +37d41m14s G      >30000  0.215887      17.6g    ...    28     0   63    5     2   10     0 Retrieve Retrieve 529 
+530  PKS 1350+148                   13h53m22.8s +14d35m39s QSO    >30000  0.405000 PHOT 18.5     ...    28     0   37    4     3    4     0 Retrieve Retrieve 530 
+531  2MASS J13532805+5600566        13h53m28.0s +56d00m57s QSO    >30000  0.404120      18.8g    ...    26     1   38    2     2    8     0 Retrieve Retrieve 531 
+532 *FBQS J135426.6+370654          13h54m26.7s +37d06m55s QSO    >30000  0.383965      17.7g    ...    17     0   36    3     3    8     0 Retrieve Retrieve 532 
+533  SDSS J135444.21+062248.1       13h54m44.2s +06d22m48s G      >30000  0.276000      19.5g    ...     2     0   20    1     1    4     0 Retrieve Retrieve 533 
+534  SDSS J135712.95-014600.5       13h57m12.9s -01d46m01s G      >30000  0.547155      20.3g    ...     6     0   41    2     2    8     0 Retrieve Retrieve 534 
+535  2MASS J13573872+0128137        13h57m38.7s +01d28m14s QSO    >30000  0.218700      17.3     ...    24     0   14    1     2    4     0 Retrieve Retrieve 535 
+536  SDSS J140121.13+520928.9       14h01m21.1s +52d09m29s G      >30000  0.481817      20.2g    ...    12     0   41    2     2    8     0 Retrieve Retrieve 536 
+537  SDSS J140127.23+484841.7       14h01m27.2s +48d48m42s *      >30000  2.025000 PHOT 19.6g    ...     2     0   13    1     1    4     0 Retrieve Retrieve 537 
+538  2MASS J14013872+3611217        14h01m38.7s +36d11m22s G      >30000  0.506957      19.7g    ...    16     0   33    5     3    8     0 Retrieve Retrieve 538 
+539  2MASS J14033087+3606508        14h03m30.8s +36d06m51s G      >30000  0.249729      19.9g    ...     8     0   37    3     2    8     1 Retrieve Retrieve 539 
+540  SDSS J140350.28+243304.8       14h03m50.3s +24d33m05s QSO    >30000  0.342725      18.8     ...     8     0   18    1     3    4     0 Retrieve Retrieve 540 
+541  SDSS J140438.58+501116.4       14h04m38.6s +50d11m16s VisS   >30000  1.520000 TENT 18.9R    ...     2     0   13    1     1    4     0 Retrieve Retrieve 541 
+542  2MASS J14044969+6554313        14h04m49.6s +65d54m32s G      >30000  0.362723      19.1g    ...    11     0   40    2     2    8     0 Retrieve Retrieve 542 
+543 *[HB89] 1402+042                14h04m50.9s +04d02m02s QSO    >30000  0.344000 :    17.5     ...   103     7   24    3     2    4     0 Retrieve Retrieve 543 
+544  SDSS J140519.62+305351.7       14h05m19.6s +30d53m52s G      >30000  0.343000      20.4g    ...     3     0   17    2     1    4     1 Retrieve Retrieve 544 
+545  SDSS J140630.18+123620.4       14h06m30.2s +12d36m20s QSO    >30000  0.695477      19.9g    ...    11     1   12    1     4    4     0 Retrieve Retrieve 545 
+546  SDSS J140641.39+481824.8       14h06m41.4s +48d18m25s VisS   >30000  2.065000 PHOT 19.9g    ...    10     0    5    1     1    4     1 Retrieve Retrieve 546 
+547  SDSS J140642.75+530833.8       14h06m42.7s +53d08m34s G      >30000  0.457805      20.2g    ...     9     0   37    2     2    8     0 Retrieve Retrieve 547 
+548 *SDSS J140710.26+241853.6       14h07m10.3s +24d18m54s QSO    >30000  1.667132      18.8g    ...     8     0   14    1     8    4     0 Retrieve Retrieve 548 
+549 *SDSS J140916.33-000011.2       14h09m16.3s -00d00m11s QSO    >30000  2.128000      18.8g    ...    10     0   18    1     4    4     0 Retrieve Retrieve 549 
+550  SDSS J140918.18+014217.4       14h09m18.2s +01d42m17s QSO    >30000  0.938853      19.0g    ...    18     0   32    2    14    8     0 Retrieve Retrieve 550 
+551  2MASS J14092353+5939408        14h09m23.5s +59d39m41s QSO    >30000  0.495845      19.2g    ...    71     3   50    4     3    8     0 Retrieve Retrieve 551 
+552  SDSS J141003.91+051557.7       14h10m03.9s +05d15m58s G      >30000  0.544101      20.1g    ...     6     0   44    2     2    8     0 Retrieve Retrieve 552 
+553  [HB89] 1407+022                14h10m04.6s +02d03m07s QSO    >30000  1.253000      18.65    ...    53     2   32    2     2    3     0 Retrieve Retrieve 553 
+554  2MASS J14102955+2820558        14h10m29.5s +28d20m56s QSO    >30000  0.522091      17.7g    ...    21     0   16    1     3    4     1 Retrieve Retrieve 554 
+555  2MASS J14103085+6100125        14h10m30.8s +61d00m13s G      >30000  0.383475      19.6g    ...    24     0   41    2     2    8     0 Retrieve Retrieve 555 
+556  2MASS J14114050+3404244        14h11m40.5s +34d04m24s QSO    >30000  0.421145      19.8g    ...     8     0   40    2     2    8     2 Retrieve Retrieve 556 
+557  SDSS J141141.96+140233.9       14h11m42.0s +14d02m34s QSO    >30000  1.753153      18.8g    ...    14     0   30    2     8    8     0 Retrieve Retrieve 557 
+558  2MASX J14115995+6344147        14h12m00.0s +63d44m15s G       20362  0.067920      17.8g    ...     4     0   44    2     2   10     0 Retrieve Retrieve 558 
+559  SDSS J141522.41+270318.2       14h15m22.4s +27d03m18s *      >30000  3.875000 PHOT 21.0g    ...     2     0    0    0     1    0     0 Retrieve Retrieve 559 
+560  2MASS J14153679+4830303        14h15m36.8s +48d30m30s G      >30000  0.496167      19.3g    ...    30     1   38    4     3    8     1 Retrieve Retrieve 560 
+561 *SDSS J141657.93+123431.6       14h16m57.9s +12d34m32s QSO    >30000  2.614842      18.8g    ...    15     0   26    2     7    8     0 Retrieve Retrieve 561 
+562  SDSS J141730.92+073320.7       14h17m30.9s +07d33m21s QSO    >30000  1.709566      18.7g    ...    14     0   37    2    10    8     0 Retrieve Retrieve 562 
+563  SDSS J141756.67+254326.2       14h17m56.7s +25d43m26s G      >30000  0.236299      17.6g    ...     6     0   15    1     3    4     0 Retrieve Retrieve 563 
+564  2MASS J14182632-0233340        14h18m26.3s -02d33m34s QSO    >30000  2.055000 PHOT 16.6r    ...    19     0   29    1     1    4     0 Retrieve Retrieve 564 
+565 *2MASS J14192748+0445138        14h19m27.5s +04d45m14s QSO    >30000  1.793500      18.5g    ...    33     0   36    2    11    8     1 Retrieve Retrieve 565 
+566 *[HB89] 1418+546                14h19m46.6s +54d23m15s QSO    >30000  0.152561      15.9g    ...   387    15  176    7     6    8     4 Retrieve Retrieve 566 
+567  SDSS J142013.68+061428.6       14h20m13.7s +06d14m29s QSO    >30000  0.625000      20.2g    ...     3     0    5    1     1    3     0 Retrieve Retrieve 567 
+568  SDSS J142106.41+315940.9       14h21m06.4s +31d59m41s *      >30000  1.535000 PHOT 19.5g    ...     2     0    8    1     1    4     0 Retrieve Retrieve 568 
+569  SDSS J142116.23+052252.3       14h21m16.2s +05d22m52s QSO    >30000  0.926489      19.7g    ...    14     0   28    2     9    8     0 Retrieve Retrieve 569 
+570  2MASS J14223892+5801555        14h22m38.9s +58d01m56s QSO    >30000  0.634926      18.3g    ...    53     2   48    2     4    8     1 Retrieve Retrieve 570 
+571  2MASS J14230466+3737303        14h23m04.6s +37d37m30s QSO    >30000  0.415000 PHOT 18.9g    ...    17     0   21    4     1    4     0 Retrieve Retrieve 571 
+572  SDSS J142330.67+141247.8       14h23m30.7s +14d12m48s *      >30000  2.065000 PHOT 19.6g    ...     2     0    5    1     1    4     2 Retrieve Retrieve 572 
+573  2MASS J14240952+0434521        14h24m09.5s +04d34m52s QSO    >30000  0.665400 :    18.0     ...    35     1   30    3     2    4     0 Retrieve Retrieve 573 
+574 *2MASX J14242118+3705530        14h24m21.1s +37d05m54s G      >30000  0.289639      18.8g    ...    24     0   52    4     3   10     2 Retrieve Retrieve 574 
+575  2MASS J14242293+3433567        14h24m22.9s +34d33m57s G      >30000  0.576400      19.8g    ...    18     0   40    3     3    8     0 Retrieve Retrieve 575 
+576  SDSS J142436.29+144910.5       14h24m36.3s +14d49m11s *      >30000  2.055000 PHOT 19.4g    ...     3     0    6    1     1    4     1 Retrieve Retrieve 576 
+577  FBQS J142455.5+361536          14h24m55.5s +36d15m36s QSO    >30000  2.055000 PHOT 17.95    ...    26     0   18    4     1    4     0 Retrieve Retrieve 577 
+578  SDSS J142526.18-011825.7       14h25m26.2s -01d18m26s QSO     12291  0.041000      19.9B    ...    10     1   24    1     2    4     0 Retrieve Retrieve 578 
+579  SDSS J142601.30+243245.7       14h26m01.3s +24d32m46s QSO    >30000  2.115467      19.5g    ...    13     0   26    2     8    8     0 Retrieve Retrieve 579 
+580  SDSS J142605.77+531558.6       14h26m05.8s +53d15m59s G      >30000  0.122700      20.7g    ...     5     0   25    2     3    8     1 Retrieve Retrieve 580 
+581  FBQS J142607.7+340426          14h26m07.7s +34d04m26s QSO    >30000  1.553000      17.7g    ...    44     1   44    4     1    3     0 Retrieve Retrieve 581 
+582  SDSS J142645.52+241523.0       14h26m45.5s +24d15m23s QSO    >30000  2.045000 PHOT 19.4g    ...     4     0    6    1     1    4     1 Retrieve Retrieve 582 
+583  SDSS J142724.88-001450.9       14h27m24.9s -00d14m51s G      >30000  0.163955      20.6g    ...     5     0   35    2     3    8     0 Retrieve Retrieve 583 
+584  2MASX J14283260+4240210        14h28m32.6s +42d40m21s QSO    >30000  0.129139      16.8g    ...   222     8  100    5     4   10     1 Retrieve Retrieve 584 
+585  SDSS J142904.61+120410.2       14h29m04.6s +12d04m10s QSO    >30000  2.085000 PHOT 18.6O    ...     6     0   14    1     1    4     0 Retrieve Retrieve 585 
+586  SDSS J142943.64+385932.2       14h29m43.6s +38d59m32s QSO    >30000  0.927924      17.6g    ...    27     0   25    2    11    6     0 Retrieve Retrieve 586 
+587  2MASS J14332758+2441174        14h33m27.6s +24d41m18s QSO    >30000  2.055000 PHOT 18.5     ...    12     0   11    1     1    4     0 Retrieve Retrieve 587 
+588  SDSS J143653.39+053408.9       14h36m53.4s +05d34m09s QSO    >30000  1.518000      19.5g    ...     2     0   25    2     4    8     0 Retrieve Retrieve 588 
+589  2MASS J14365771+5639249        14h36m57.7s +56d39m25s QSO    >30000  0.150000      18.8     ...    38     0   18    1     2    4     0 Retrieve Retrieve 589 
+590  SDSS J143716.15+471726.4       14h37m16.1s +47d17m26s QSO    >30000  0.405000 PHOT 20.2g    ...     4     0    9    1     1    4     1 Retrieve Retrieve 590 
+591 *SDSS J143758.67+300207.1       14h37m58.7s +30d02m07s G      >30000  0.231600      19.38    ...    12     0   13    4     2    4     0 Retrieve Retrieve 591 
+592  SDSS J143832.30+292210.3       14h38m32.3s +29d22m10s *      >30000  0.435000 PHOT 19.5g    ...     3     0   11    2     1    4     0 Retrieve Retrieve 592 
+593  FBQS J143917.4+393242          14h39m17.5s +39d32m43s QSO    >30000  0.343663      16.9g    ...    70     2   50    6     3    8     1 Retrieve Retrieve 593 
+594  SDSS J143946.13+460311.1       14h39m46.1s +46d03m11s QSO    >30000  1.019000 TENT 19.2R    ...     5     0   13    1     1    4     0 Retrieve Retrieve 594 
+595  SDSS J143946.96+495805.4       14h39m47.0s +49d58m05s G      >30000  0.174000      17.7     ...    33     0   24    3     2    4     1 Retrieve Retrieve 595 
+596  SDSS J144045.04+334322.2       14h40m45.0s +33d43m22s *      >30000  1.535000 PHOT 19.5g    ...     2     0   13    1     1    4     0 Retrieve Retrieve 596 
+597  FBQS J144050.0+333350          14h40m50.1s +33d33m50s QSO    >30000  1.785871      18.4g    ...    23     0   40    3     8    8     0 Retrieve Retrieve 597 
+598  2MASS J14405293+0610162        14h40m52.9s +06d10m16s QSO    >30000  0.435000 PHOT 17.3     ...    31     0   40    4     1    4     0 Retrieve Retrieve 598 
+599  4C +13.53                      14h42m04.0s +13d29m16s QSO    >30000  0.991500      18.5g    ...    23     0   14    4     3    4     0 Retrieve Retrieve 599 
+600  2MASS J14420713+4348367        14h42m07.1s +43d48m37s QSO    >30000  0.672500      18.5g    ...    16     0   31    2     4    8     0 Retrieve Retrieve 600 
+601  SDSS J144248.28+120040.2       14h42m48.3s +12d00m40s G      >30000  0.163000      17.5g    ...     8     0   15    1     1    4     1 Retrieve Retrieve 601 
+602  SDSS J144334.40+251558.2       14h43m34.4s +25d15m58s G      >30000  0.529022      19.5g    ...     3     0    5    1     4    4     1 Retrieve Retrieve 602 
+603  2MASS J14443492+6336066        14h44m34.9s +63d36m06s G      >30000  0.297966      19.7g    ...    60     3   47    4     3    8     1 Retrieve Retrieve 603 
+604  SDSS J144632.57+412729.9       14h46m32.6s +41d27m30s G      >30000  0.638235      20.5g    ...    10     0   34    3     3    8     0 Retrieve Retrieve 604 
+605  LBQS 1445-0151                 14h47m41.7s -02d03m39s QSO    >30000  1.430852      18.7g    ...    25     0   40    3    11    6     0 Retrieve Retrieve 605 
+606  FBQS J144800.5+360831          14h48m00.6s +36d08m32s QSO    >30000  1.565000 PHOT 16.3     ...    47     0   18    3     1    4     1 Retrieve Retrieve 606 
+607  SDSS J144803.36+240704.2       14h48m03.4s +24d07m04s QSO    >30000  3.544000      20.0g    ...     8     0    5    1     4    4     0 Retrieve Retrieve 607 
+608  2MASX J14493265+2746213        14h49m32.7s +27d46m22s QSO    >30000  0.225000      18.6g    ...    28     0   33    1     1    6     1 Retrieve Retrieve 608 
+609  SDSS J145045.56+461504.2       14h50m45.5s +46d15m04s QSO    >30000  1.877432      20.3g    ...    14     0   27    2     7    8     0 Retrieve Retrieve 609 
+610  2MASS J14505995+5201107        14h51m00.0s +52d01m12s QSO    >30000  2.472000      18.9g    ...    17     0   31    2     4    8     0 Retrieve Retrieve 610 
+611  SDSS J145111.70+580003.0       14h51m11.7s +58d00m03s G      >30000  0.405000      20.1g    ...     4     0   15    1     1    4     1 Retrieve Retrieve 611 
+612 *SBS 1452+516                   14h54m27.1s +51d24m34s QSO    >30000  1.083100      18.3g    ...    48     0   49    4     3    8     0 Retrieve Retrieve 612 
+613  2MASS J14550743+0250400        14h55m07.4s +02d50m40s QSO    >30000  0.405000 PHOT 19.4r    ...    12     0   17    3     1    4     0 Retrieve Retrieve 613 
+614  SDSS J145514.08+235337.6       14h55m14.1s +23d53m38s *      >30000  2.105000 PHOT 19.2g    ...     2     0    5    1     1    4     0 Retrieve Retrieve 614 
+615 *SDSS J145603.64+504825.9       14h56m03.6s +50d48m26s QSO    >30000  0.478567      19.3g    ...    26     0   34    2     3    8     0 Retrieve Retrieve 615 
+616  SDSS J145604.19+544253.1       14h56m04.2s +54d42m53s QSO    >30000  1.794100      19.6g    ...    16     0   30    2     9    8     0 Retrieve Retrieve 616 
+617  B3 1456+375                    14h58m44.8s +37d20m22s QSO    >30000  0.333430      20.0g    ...    52     1   51    6     7    8     0 Retrieve Retrieve 617 
+618  SDSS J150057.85+484002.3       15h00m57.8s +48d40m02s QSO    >30000  0.510000      18.8g    ...     3     0   25    2     3    8     0 Retrieve Retrieve 618 
+619  SDSS J150106.26+552750.7       15h01m06.2s +55d27m51s QSO      3598  0.012000      19.9r    ...     8     0   11    1     1    4     0 Retrieve Retrieve 619 
+620  FBQS J150233.9+335055          15h02m33.9s +33d50m56s QSO    >30000  0.435000 PHOT 18.24    ...    21     0   21    4     1    4     0 Retrieve Retrieve 620 
+621  SDSS J150347.98+475930.9       15h03m48.0s +47d59m31s QSO    >30000  0.385000 PHOT 20.1g    ...     3     0    5    1     1    4     1 Retrieve Retrieve 621 
+622  SDSS J150410.48+300703.0       15h04m10.5s +30d07m03s *      >30000  0.947000 TENT 19.5g    ...     2     0    9    1     2    4     0 Retrieve Retrieve 622 
+623  SDSS J150617.64+433413.6       15h06m17.6s +43d34m14s G      >30000  0.470180      19.9g    ...     7     0   30    2     3    8     0 Retrieve Retrieve 623 
+624  SDSS J150644.47+081400.6       15h06m44.5s +08d14m01s QSO    >30000  0.376000 TENT 17.4g    ...    19     0   20    4     2    4     0 Retrieve Retrieve 624 
+625  SDSS J150718.80+243122.7       15h07m18.8s +24d31m23s G        5724  0.019093      19.0g    ...     5     0    5    1     1    4     0 Retrieve Retrieve 625 
+626  SBS 1508+561                   15h09m48.0s +55d56m17s QSO    >30000  1.680000      16.5     ...    44     1   29    3     2    4     0 Retrieve Retrieve 626 
+627  SDSS J151433.75+190319.5       15h14m33.7s +19d03m20s *      >30000  0.435000 PHOT 19.0g    ...     2     0    5    1     1    4     2 Retrieve Retrieve 627 
+628  SDSS J151826.68+075222.3       15h18m26.7s +07d52m22s G      >30000  0.379527      19.1g    ...     3     0    6    1     3    4     1 Retrieve Retrieve 628 
+629  SDSS J152034.98+554256.9       15h20m35.0s +55d42m57s QSO    >30000  0.640329      19.0g    ...     7     0   34    2     3    8     3 Retrieve Retrieve 629 
+630 *SDSS J152200.14+413741.6       15h22m00.1s +41d37m42s QSO    >30000  3.241500      21.0g    ...    11     0   28    3     6    8     0 Retrieve Retrieve 630 
+631  SDSS J152200.76+035017.0       15h22m00.8s +03d50m17s QSO    >30000  0.837547      19.6g    ...    14     0   37    2    12    8     0 Retrieve Retrieve 631 
+632  SDSS J152422.56+374034.1       15h24m22.6s +37d40m34s QSO    >30000  1.219170      19.8g    ...     4     0   28    3     3    8     0 Retrieve Retrieve 632 
+633  SDSS J152507.68+215343.0       15h25m07.7s +21d53m43s *      >30000  2.145000 PHOT 19.6g    ...     3     0   10    1     1    4     1 Retrieve Retrieve 633 
+634  SDSS J152913.56+381217.5       15h29m13.6s +38d12m18s QSO    >30000  1.062250      18.6g    ...    12     0   29    3     2    8     0 Retrieve Retrieve 634 
+635  FBQS J153044.0+231013          15h30m44.1s +23d10m14s QSO    >30000  1.405456      17.4i    ...    13     0   12    1     5    4     0 Retrieve Retrieve 635 
+636  SDSS J153058.17+573625.2       15h30m58.2s +57d36m25s G      >30000  1.099800 :    19.4r    ...    15     0   16    3     2    4     0 Retrieve Retrieve 636 
+637  SDSS J153139.78+470705.9       15h31m39.8s +47d07m06s VisS   >30000  2.145000 PHOT 19.5g    ...     3     0    5    1     1    4     1 Retrieve Retrieve 637 
+638  2MASS J15314952+4659135        15h31m49.5s +46d59m14s QSO    >30000  0.316365      19.2g    ...    11     0   45    2     2    8     0 Retrieve Retrieve 638 
+639  2MASS J15331125+1854290        15h33m11.2s +18d54m29s QSO    >30000  0.307079      17.1     ...    24     1   29    2     4    3     0 Retrieve Retrieve 639 
+640  FBQS J153324.2+341640          15h33m24.2s +34d16m40s QSO    >30000  0.810500      18.2g    ...    32     0   34    4     3    8     0 Retrieve Retrieve 640 
+641  FBQS J153447.2+371554          15h34m47.2s +37d15m55s G      >30000  0.142783      17.6g    ...    39     0   55    5     2    8     0 Retrieve Retrieve 641 
+642  2MASS J15350086+5320374        15h35m00.8s +53d20m37s QSO    >30000  0.890000      17.6     ...    42     2   30    1     2    4     0 Retrieve Retrieve 642 
+643  2MASS J15392568+4217279        15h39m25.7s +42d17m28s G      >30000  1.156000      18.3R    ...    17     0   23    3     1    4     1 Retrieve Retrieve 643 
+644  SDSS J154146.37+263100.8       15h41m46.4s +26d31m01s *      >30000  1.716000 TENT 19.3g    ...     2     0    5    1     2    3     0 Retrieve Retrieve 644 
+645  SDSS J154604.25+081913.4       15h46m04.2s +08d19m13s QSO    >30000  0.512000      17.6g    ...     3     0    5    1     2    4     1 Retrieve Retrieve 645 
+646  SDSS J154623.71+181715.3       15h46m23.7s +18d17m15s QSO    >30000  1.005000      19.2g    ...     6     0   17    3     2    3     0 Retrieve Retrieve 646 
+647 *SDSS J154633.15+060345.5       15h46m33.1s +06d03m46s QSO    >30000  1.305546      19.2r    ...    10     0   10    1     6    4     0 Retrieve Retrieve 647 
+648  SDSS J154850.76+001852.3       15h48m50.7s +00d18m52s WD*       ...       ...       ...     ...     2     0   13    1     0    4     0 Retrieve Retrieve 648 
+649 *2MASS J15520326+0850473        15h52m03.2s +08d50m47s G      >30000  1.015000      18.4g    ...    23     0   22    4     2    4     0 Retrieve Retrieve 649 
+650  SDSS J155331.07+060143.8       15h53m31.1s +06d01m44s G      >30000  0.619000 TENT 20.4g    ...     2     0   15    1     1    4     1 Retrieve Retrieve 650 
+651  SDSS J155412.07+241426.6       15h54m12.1s +24d14m27s G      >30000  0.301000      20.0g    ...     4     0   15    1     1    4     3 Retrieve Retrieve 651 
+652  2MASX J15542410+2011249        15h54m24.1s +20d11m25s G      >30000  0.222000      17.70    ...    74     2   46    5     2    6     0 Retrieve Retrieve 652 
+653 *SDSS J155500.58+214159.8       15h55m00.6s +21d42m00s QSO    >30000  0.387593      18.3g    ...    14     0   18    4     4    3     0 Retrieve Retrieve 653 
+654  SDSS J155626.90+103457.3       15h56m26.9s +10d34m57s QSO    >30000  1.889000      20.9g    ...     7     0    5    1     2    4     0 Retrieve Retrieve 654 
+655  SDSS J155651.00+385446.4       15h56m51.0s +38d54m46s *         ...       ...      21.1g    ...     1     0    5    1     0    4     0 Retrieve Retrieve 655 
+656  SDSS J155848.37+022818.5       15h58m48.4s +02d28m19s QSO    >30000  2.256000      19.4r    ...     7     0   12    1     2    4     0 Retrieve Retrieve 656 
+657  2MASS J15595220+2316567        15h59m52.2s +23d16m57s QSO    >30000  0.415000 PHOT 17.9g    ...     9     0   12    3     1    4     1 Retrieve Retrieve 657 
+658  SDSS J160114.81+042052.7       16h01m14.8s +04d20m53s QSO    >30000  2.152173      19.3g    ...    12     0   26    2     8    8     0 Retrieve Retrieve 658 
+659  SDSS J160118.96+063136.0       16h01m18.9s +06d31m36s G      >30000  0.358000      19.6g    ...     4     0   24    1     4    4     0 Retrieve Retrieve 659 
+660 *FBQS J160218.0+305109          16h02m18.1s +30d51m09s QSO    >30000  1.091000      18.1     ...    31     1   19    2     1    4     1 Retrieve Retrieve 660 
+661  SDSS J160339.49+500955.5       16h03m39.5s +50d09m55s G      >30000  0.620900 :    19.3r    ...     8     0   10    1     2    4     0 Retrieve Retrieve 661 
+662  SDSS J160410.22+432614.6       16h04m10.2s +43d26m15s QSO    >30000  1.538200      18.3g    ...    17     0   30    2     6    6     0 Retrieve Retrieve 662 
+663  SDSS J160436.64+173325.0       16h04m36.6s +17d33m25s G      >30000  1.006000      19.6g    ...     7     0   11    1     2    4     0 Retrieve Retrieve 663 
+664  SDSS J160519.04+542059.9       16h05m19.0s +54d21m00s G      >30000  0.211773      19.2g    ...    34     0   56    2     2    8     0 Retrieve Retrieve 664 
+665  2MASS J16074064+2541160        16h07m40.6s +25d41m16s G      >30000  0.532260      20.0g    ...     8     0   26    2     3    8     1 Retrieve Retrieve 665 
+666 *SDSS J160827.08+075811.5       16h08m27.1s +07d58m12s QSO    >30000  1.098000      17.9g    ...    12     0   33    2    10    8     0 Retrieve Retrieve 666 
+667  SDSS J160909.77+342154.1       16h09m09.7s +34d21m54s VisS   >30000  0.578000 TENT 19.3g    ...     4     0   12    2     2    4     0 Retrieve Retrieve 667 
+668  SDSS J161016.47+303945.9       16h10m16.5s +30d39m46s QSO    >30000  1.034798      21.3g    ...    11     0   25    2     6    8     0 Retrieve Retrieve 668 
+669  SDSS J161245.67+511816.8       16h12m45.7s +51d18m17s QSO    >30000  1.594232      18.0g    ...    20     0   34    2    13    8     0 Retrieve Retrieve 669 
+670  SDSS J161353.49+220159.4       16h13m53.5s +22d01m59s QSO    >30000  0.871892      19.4g    ...     9     0   29    2     6    8     0 Retrieve Retrieve 670 
+671  SDSS J161409.43+203602.0       16h14m09.4s +20d36m02s *      >30000  2.055000 PHOT 20.4g    ...     2     0    5    1     1    4     1 Retrieve Retrieve 671 
+672 *SDSS J161415.20+004722.0       16h14m15.2s +00d47m22s QSO    >30000  2.192120      19.7g    ...    18     0   22    1    10    4     0 Retrieve Retrieve 672 
+673 *B3 1614+473                    16h15m41.2s +47d11m12s G      >30000  0.198680      18.0g    ...    29     0   53    5     3   10     1 Retrieve Retrieve 673 
+674  2MASX J16160849+2241070        16h16m08.5s +22d41m08s G      >30000  0.329961      19.2g    ...     3     0   29    1     2    6     2 Retrieve Retrieve 674 
+675  SDSS J161633.78+333043.4       16h16m33.8s +33d30m44s VisS   >30000  0.435000 PHOT 19.5g    ...     4     0   12    2     1    4     0 Retrieve Retrieve 675 
+676  SDSS J161706.32+410647.0       16h17m06.3s +41d06m47s G      >30000  0.267000      18.4g    ...     7     0   15    1     1    4     0 Retrieve Retrieve 676 
+677  B2 1616+36                     16h18m23.6s +36d32m02s G      >30000  0.733527      20.0g    ...    25     1   46    6     3    8     0 Retrieve Retrieve 677 
+678  2MASS J16183059+0622116        16h18m30.6s +06d22m12s QSO    >30000  0.435000 PHOT 19.1g    ...     9     0   12    1     1    4     1 Retrieve Retrieve 678 
+679 *SDSS J161836.09+153313.5       16h18m36.1s +15d33m14s QSO    >30000  4.326070      20.0g    ...    10     0    6    1     7    4     0 Retrieve Retrieve 679 
+680  SDSS J162115.21-003140.3       16h21m15.2s -00d31m40s QSO    >30000  0.413200 :    18.9r    ...     9     0    8    1     1    4     0 Retrieve Retrieve 680 
+681  SDSS J162258.85+064919.3       16h22m58.8s +06d49m19s *         ...       ...      20.8g    ...     1     0    5    1     0    4     0 Retrieve Retrieve 681 
+682  SDSS J162259.24+440142.9       16h22m59.3s +44d01m43s G      >30000  0.122000      18.8r    ...     9     0   12    1     2    4     0 Retrieve Retrieve 682 
+683  SDSS J162332.26+284128.7       16h23m32.2s +28d41m29s QSO    >30000  0.377000      19.4g    ...     8     0    8    2     1    4     1 Retrieve Retrieve 683 
+684  SDSS J162356.37+133614.1       16h23m56.4s +13d36m14s WD*       ...       ...       ...     ...     1     0    5    1     0    4     0 Retrieve Retrieve 684 
+685  SDSS J162451.69+232515.8       16h24m51.7s +23d25m16s G      >30000  0.441399      20.6g    ...     3     0   35    2     2    8     1 Retrieve Retrieve 685 
+686  SDSS J162625.85+351341.4       16h26m25.8s +35d13m42s QSO    >30000  0.497380      18.7g    ...    31     2   36    3     3    8     0 Retrieve Retrieve 686 
+687  SDSS J162650.39+342229.4       16h26m50.4s +34d22m29s QSO    >30000  2.288000      20.3g    ...     5     0   27    3     2    8     0 Retrieve Retrieve 687 
+688  SDSS J162712.98+314956.0       16h27m13.0s +31d49m56s VisS   >30000  0.580000 TENT 20.5g    ...     4     0   12    2     1    4     0 Retrieve Retrieve 688 
+689  2MASX J16283902+2527560        16h28m39.0s +25d27m56s QSO    >30000  0.220019      18.5g    ...    23     0   49    2     4   10     1 Retrieve Retrieve 689 
+690  SDSS J162856.27+140028.7       16h28m56.3s +14d00m29s *      >30000  2.045000 PHOT 19.6g    ...     2     0    5    1     1    4     0 Retrieve Retrieve 690 
+691  SDSS J162933.60+253200.6       16h29m33.6s +25d32m01s QSO    >30000  1.339498      19.5g    ...    12     0   30    2     9    8     0 Retrieve Retrieve 691 
+692  2MASS J16312462+4217024        16h31m24.7s +42d17m02s QSO    >30000  0.466428      19.4g    ...    28     0   30    2     3    8     1 Retrieve Retrieve 692 
+693  SDSS J163214.52+175849.6       16h32m14.5s +17d58m50s G      >30000  0.287000      18.6g    ...     2     0   15    1     1    4     2 Retrieve Retrieve 693 
+694  2MASX J16332244+4227388        16h33m22.5s +42d27m39s G      >30000  0.133208      18.2g    ...     4     0   29    1     2    6     0 Retrieve Retrieve 694 
+695  2MASS J16370949+4326004        16h37m09.5s +43d26m00s G      >30000  0.343514      18.6g    ...    13     0   41    2     2    8     0 Retrieve Retrieve 695 
+696  2MASS J16371675+1314383        16h37m16.7s +13d14m39s VisS   >30000  1.545000 PHOT 19.3g    ...     8     0   10    1     1    4     1 Retrieve Retrieve 696 
+697  B3 1635+458                    16h37m26.7s +45d47m49s G      >30000  0.192201      18.3g    ...    28     0   48    3     3   10     0 Retrieve Retrieve 697 
+698  SDSS J163739.15+221039.9       16h37m39.1s +22d10m40s G      >30000  0.689144      21.8g    ...     2     0   20    1     2    4     0 Retrieve Retrieve 698 
+699  SDSS J163836.22+435403.0       16h38m36.2s +43d54m03s G      >30000  0.469930      21.1g    ...     3     0   21    1     2    4     0 Retrieve Retrieve 699 
+700  SDSS J163843.23+133409.8       16h38m43.2s +13d34m10s G      >30000  0.471963      21.3g    ...     2     0   35    2     4    8     1 Retrieve Retrieve 700 
+701  SDSS J164128.55+211759.6       16h41m28.5s +21d18m00s *      >30000  0.673000 TENT 20.0g    ...     1     0    9    1     1    4     0 Retrieve Retrieve 701 
+702  2MASS J16422033+2211435        16h42m20.3s +22d11m43s G      >30000  0.591463      19.1g    ...    13     0   31    2     3    8     0 Retrieve Retrieve 702 
+703  SDSS J164301.06+322104.0       16h43m01.0s +32d21m04s QSO    >30000  1.028000      19.0g    ...     4     0   15    2     2    4     0 Retrieve Retrieve 703 
+704  SDSS J164302.03+441422.1       16h43m02.0s +44d14m22s QSO    >30000  1.650397      18.9g    ...    22     0   34    2    12    8     0 Retrieve Retrieve 704 
+705  B3 1642+458                    16h44m20.0s +45d46m44s G      >30000  0.224775      18.2g    ...    56     2   62    5     3   10     0 Retrieve Retrieve 705 
+706  SDSS J164729.70+252154.4       16h47m29.7s +25d21m54s G      >30000  0.443452      20.5g    ...     2     0   25    2     1    8     0 Retrieve Retrieve 706 
+707  SDSS J164903.28+304936.5       16h49m03.3s +30d49m37s QSO    >30000  2.055923      18.8i    ...    16     0    9    1     8    4     0 Retrieve Retrieve 707 
+708  FBQS J165109.1+421253          16h51m09.2s +42d12m53s G      >30000  0.268783      19.8g    ...    17     0   47    2     2    8     0 Retrieve Retrieve 708 
+709  SDSS J165146.61+184709.0       16h51m46.6s +18d47m09s G      >30000  0.447194      20.7g    ...     3     0   35    2     2    8     0 Retrieve Retrieve 709 
+710 *SDSS J165248.44+363212.5       16h52m48.4s +36d32m13s G      >30000  0.647531      19.7g    ...    11     0   38    3     3    8     0 Retrieve Retrieve 710 
+711 *FBQS J165249.9+402309          16h52m49.9s +40d23m10s G      >30000  0.240000      16.4     ...    24     0   14    2     3    4     0 Retrieve Retrieve 711 
+712  SDSS J165412.83+354334.9       16h54m12.8s +35d43m35s QSO    >30000  0.753316      20.1g    ...    12     0   35    2    10    8     0 Retrieve Retrieve 712 
+713 *SDSS J165542.81+324420.0       16h55m42.8s +32d44m20s QSO    >30000  1.065470      19.1g    ...    12     0   38    4     2    8     1 Retrieve Retrieve 713 
+714 *B3 1654+374                    16h55m52.2s +37d23m22s G      >30000  0.829650      21.4g    ...    10     0   37    6     2    8     0 Retrieve Retrieve 714 
+715 *SDSS J165806.76+611858.9       16h58m06.7s +61d18m59s QSO    >30000  2.631545      20.7r    ...    16     0    7    1     6    4     0 Retrieve Retrieve 715 
+716  2MASS J16580829+6150021        16h58m08.3s +61d50m02s G      >30000  0.374326      19.0g    ...     8     0   42    2     2    8     0 Retrieve Retrieve 716 
+717  SDSS J165851.61+341908.8       16h58m51.6s +34d19m09s VisS      ...       ...      20.3g    ...     2     0    5    1     0    4     0 Retrieve Retrieve 717 
+718  SDSS J170108.89+395443.0       17h01m08.9s +39d54m43s QSO    >30000  1.902717      19.2r    ...    28     0   14    2     9    4     0 Retrieve Retrieve 718 
+719  FBQS J170124.6+395437          17h01m24.6s +39d54m37s QSO    >30000  0.507397      17.4g    ...    41     1   47    6     5    8     0 Retrieve Retrieve 719 
+720  FBQS J170238.5+311543          17h02m38.5s +31d15m44s QSO    >30000  2.075000 PHOT 17.97    ...    16     0   12    2     2    4     0 Retrieve Retrieve 720 
+721  FBQS J171248.7+293117          17h12m48.8s +29d31m17s QSO    >30000  0.420000      18.24    ...    14     0   28    1     1    4     0 Retrieve Retrieve 721 
+722  SDSS J171427.40+560156.0       17h14m27.4s +56d01m56s G      >30000  0.401529      20.5g    ...    12     0   43    2     2    8     0 Retrieve Retrieve 722 
+723  SDSS J171445.53+303628.0       17h14m45.5s +30d36m28s G      >30000  0.850000 :    19.1r    ...    13     0   21    2     3    4     0 Retrieve Retrieve 723 
+724  SDSS J171501.35+292912.3       17h15m01.3s +29d29m12s VisS   >30000  1.530000 TENT 19.4r    ...     8     0   12    1     3    4     0 Retrieve Retrieve 724 
+725  SDSS J171902.34+552434.5       17h19m02.3s +55d24m35s G      >30000  0.626644      21.8g    ...     8     0   21    1     2    4     2 Retrieve Retrieve 725 
+726 *SDSS J172858.15+603512.7       17h28m58.1s +60d35m13s QSO    >30000  1.785418      18.7g    ...    23     0   32    3    13    8     0 Retrieve Retrieve 726 
+727  2MASS J17291881+5255592        17h29m18.7s +52d55m59s G      >30000  0.349114      19.0g    ...    14     0   42    2     3    8     1 Retrieve Retrieve 727 
+728  SDSS J173719.12+570216.5       17h37m19.1s +57d02m16s QSO      9593  0.032000      19.8r    ...     8     0   13    1     2    4     0 Retrieve Retrieve 728 
+729  SDSS J204921.74-003926.6       20h49m21.7s -00d39m27s G      >30000  0.257000      19.6g    ...     2     0   15    1     1    4     0 Retrieve Retrieve 729 
+730  SDSS J205133.22-002130.1       20h51m33.2s -00d21m30s *         ...       ...      20.8g    ...     1     0    5    1     0    4     0 Retrieve Retrieve 730 
+731  2MASX J20545682+0015378        20h54m56.8s +00d15m38s QSO    >30000  0.150842      18.0g    ...    26     0   59    5     3   10     1 Retrieve Retrieve 731 
+732  2MASS J20552338-0506189        20h55m23.4s -05d06m19s G      >30000  0.342567      19.3g    ...     9     0   39    2     2    8     0 Retrieve Retrieve 732 
+733  2MASS J20552822-0021172        20h55m28.2s -00d21m17s QSO    >30000  2.085000 PHOT 18.3     ...    23     0   23    1     1    4     0 Retrieve Retrieve 733 
+734  2MASS J20593853-0037557        20h59m38.6s -00d37m56s G      >30000  0.335390      19.7g    ...    11     0   31    1     2    4     2 Retrieve Retrieve 734 
+735  SDSS J210436.56-072146.7       21h04m36.5s -07d21m47s *         ...       ...      20.6g    ...     1     0    5    1     0    4     0 Retrieve Retrieve 735 
+736  SDSS J211552.88+000115.4       21h15m52.9s +00d01m16s QSO    >30000  2.500000      19.4r    ...     5     0    8    1     0    4     0 Retrieve Retrieve 736 
+737  2MASS J21160322-0108285        21h16m03.2s -01d08m28s QSO    >30000  0.305428      18.4g    ...    12     0   39    2     4    8     0 Retrieve Retrieve 737 
+738 *FBQS J2116-0628                21h16m11.9s -06d28m30s QSO    >30000  0.291641      19.4g    ...    12     0   44    2     2    8     0 Retrieve Retrieve 738 
+739  SDSS J212416.05-074129.8       21h24m16.0s -07d41m30s QSO    >30000  1.402545      18.2g    ...    19     0   17    1    10    4     0 Retrieve Retrieve 739 
+740  SDSS J212756.66+004745.6       21h27m56.7s +00d47m46s QSO    >30000  0.443487      19.3g    ...     6     0   43    2     6    8     0 Retrieve Retrieve 740 
+741  SDSS J213742.23-003912.7       21h37m42.2s -00d39m13s QSO    >30000  2.257689      19.7g    ...    20     0   26    2    10    8     0 Retrieve Retrieve 741 
+742  SDSS J214406.27-002858.1       21h44m06.3s -00d28m58s G       10043  0.033500      19.6g    ...     5     0    5    1     2    4     1 Retrieve Retrieve 742 
+743  SDSS J214807.07-073346.9       21h48m07.1s -07d33m47s QSO    >30000  0.768019      18.7g    ...     5     0   33    2     3    8     1 Retrieve Retrieve 743 
+744  SDSS J215051.71+111916.6       21h50m51.7s +11d19m17s G      >30000  0.494635      19.3g    ...     6     0   32    2     2    8     0 Retrieve Retrieve 744 
+745  2MASS J21530534-0042307        21h53m05.3s -00d42m31s QSO    >30000  0.341348      18.8g    ...    25     0   39    2     4    8     0 Retrieve Retrieve 745 
+746  FBQS J2156-0855                21h56m50.3s -08d55m35s QSO    >30000  1.017000      19.73    ...     8     0    6    1     2    4     0 Retrieve Retrieve 746 
+747  SDSS J215950.30+124718.4       21h59m50.3s +12d47m18s QSO    >30000  1.514500      21.4g    ...    19     0   26    2    10    8     0 Retrieve Retrieve 747 
+748  FBQS J2204+0031                22h04m45.3s +00d31m42s QSO    >30000  1.353453      16.6i    ...    25     0    9    1     8    4     1 Retrieve Retrieve 748 
+749  FBQS J2211-0003                22h11m08.3s -00d03m03s QSO    >30000  0.361951      19.2g    ...    22     0   49    2     2    8     0 Retrieve Retrieve 749 
+750  FBQS J2211-0023                22h11m09.9s -00d23m27s G      >30000  0.447575      20.3g    ...    12     0   44    2     2    8     0 Retrieve Retrieve 750 
+751  SDSS J221456.37+002000.0       22h14m56.4s +00d20m00s G      >30000  0.585782      19.6g    ...    10     0   35    2     4    8     2 Retrieve Retrieve 751 
+752  2MASS J22330112+1336022        22h33m01.1s +13d36m02s QSO    >30000  0.213631      18.9g    ...    22     1   50    3     2    8     0 Retrieve Retrieve 752 
+753  SDSS J224046.89+132602.6       22h40m46.9s +13d26m03s QSO    >30000  0.660357      19.2g    ...     5     0   27    2     2    8     0 Retrieve Retrieve 753 
+754  SDSS J224448.09-000619.3       22h44m48.1s -00d06m20s G      >30000  0.597800      19.1r    ...    10     0   14    1     2    4     0 Retrieve Retrieve 754 
+755  FBQS J2247+0000                22h47m30.2s +00d00m06s QSO     28180  0.094000      18.5     ...    41     0   26    3     1    3     0 Retrieve Retrieve 755 
+756  SDSS J224949.85+130844.7       22h49m49.9s +13d08m45s G      >30000  0.633400 :    19.1r    ...     5     0   14    1     1    4     0 Retrieve Retrieve 756 
+757  2MASS J22523220+1245109        22h52m32.2s +12d45m11s G      >30000  0.496476      19.3g    ...     8     0   34    2     3    8     0 Retrieve Retrieve 757 
+758  2MASS J22535423+1404371        22h53m54.2s +14d04m37s G      >30000  0.326736      18.9g    ...    10     0   37    2     2    8     1 Retrieve Retrieve 758 
+759  2MASS J22562428+1305412        22h56m24.3s +13d05m42s QSO    >30000  0.415000 PHOT 18.5r    ...    10     0   20    1     1    4     0 Retrieve Retrieve 759 
+760  SDSS J232428.43+144324.3       23h24m28.4s +14d43m24s QSO    >30000  1.417152      18.7r    ...    20     0   16    1     8    4     0 Retrieve Retrieve 760 
+761  2MASS J23345383+1432148        23h34m53.8s +14d32m15s QSO    >30000  0.415000 PHOT 18.2r    ...    16     0   14    1     1    4     0 Retrieve Retrieve 761 
+762  SDSS J233939.48-103539.3       23h39m39.5s -10d35m39s QSO    >30000  2.757420      18.9g    ...    18     0   26    2    10    8     0 Retrieve Retrieve 762 
+763  FBQS J2356-0023                23h56m04.0s -00d23m54s G      >30000  0.283119      19.1g    ...    15     0   48    2     2    8     1 Retrieve Retrieve 763 
