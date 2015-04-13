@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="365bf3c0-96f7-44e8-9bb9-fddca7c36f64" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Siddharth Kumar\Documents\GitHub\NED-Fermi-comparison\FERMI_TABLE.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="NED-Fermi-comparison.iws" />
@@ -315,7 +313,11 @@
       <created>1428881238924</created>
       <updated>1428881238924</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" New data set">
+      <created>1428936937583</created>
+      <updated>1428936937583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -379,7 +381,8 @@
     </option>
     <MESSAGE value="Read the file!" />
     <MESSAGE value="Updated logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated logic" />
+    <MESSAGE value=" New data set" />
+    <option name="LAST_COMMIT_MESSAGE" value=" New data set" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
