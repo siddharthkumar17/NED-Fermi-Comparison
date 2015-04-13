@@ -1,0 +1,1 @@
+A comparison of objects found in the NED table and the Fermi 3FGL by right ascension and declination.
