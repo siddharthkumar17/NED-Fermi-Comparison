@@ -10,7 +10,7 @@ ned = open('NED_TABLE.txt','r')
 
 ned.readline()
 
-
+range = 1
 
 class GRB:
     def __init__(self,name,ra,dec):
@@ -63,11 +63,49 @@ for line in fermi:
     NAME = line.split()[2]
     FermiList.append(GRB(NAME,RA,DEC))
 
-print(len(FermiList))
-list = []
+
+
+x=0
+
+print('NED OBJECT -> FERMI OBJECT')
+
+
+list3 = []
 for NED in NEDList:
-    dist = ((NED.RA-FermiList[0].RA)**2+(NED.DEC-FermiList[0].DEC)**2)**.5
+    list = []
+    list2=[]
     for Fermi in FermiList:
         list.append(((NED.RA-Fermi.RA)**2+(NED.DEC-Fermi.DEC)**2)**.5)
-    print(NED.NAME,' = ')#FermiList[list.index(min(list))].NAME)
 
+    print(NED.NAME,'-> ',end='')
+    b = False
+    for l in list:
+        if l <= (2*range)**.5 and b:
+            print(' AND ',FermiList[list.index(l)].NAME,end='')
+            list2.append(FermiList[list.index(l)].NAME)
+        if l <= (2*(range))**.5:
+            print(FermiList[list.index(l)].NAME,end='')
+            x+=1
+            b=True
+            list2.append(FermiList[list.index(l)].NAME)
+
+    if b == False:
+        print('NONE -> CLOSEST = ',FermiList[list.index(min(list))].NAME,' AT DIST = ',min(list))
+    else:
+        print('')
+
+    if len(list2)>1:
+        s=NED.NAME+' HAS '+str(len(list2))+' RESULTS -> '
+        for q in list2:
+            s+=q+', '
+        s=s[:-2]
+        list3.append(s)
+print('---------------------------------------------------------------------------')
+print(x,'HAVE RESULTS WITHIN RANGE OF',range,'DEGREE',end='')
+if range>1:
+    print('s')
+else:
+    print('')
+print('---------------------------------------------------------------------------')
+for r in list3:
+    print(r)
