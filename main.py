@@ -1,23 +1,12 @@
 __author__ = 'Siddharth Kumar'
 
-import sys
 import re
-
-import xml.etree.ElementTree as ET
-
-fermi = open('FERMI_TABLE.txt','r')
-ned = open('NED_TABLE.txt','r')
-
-ned.readline()
-
-range = 1
 
 class GRB:
     def __init__(self,name,ra,dec):
         self.NAME = str(name)
         self.RA = float(ra)
         self.DEC = float(dec)
-
 
 def HMS2deg(ra='', dec=''):
   RA, DEC, rs, ds = '', '', 1, 1
@@ -39,6 +28,14 @@ def HMS2deg(ra='', dec=''):
     return [RA, DEC]
   else:
     return RA or DEC
+
+fermi = open('FERMI_TABLE.txt','r')
+ned = open('NED_TABLE.txt','r')
+
+ned.readline()
+
+range = 1
+
 
 
 NEDList = []
@@ -63,9 +60,7 @@ for line in fermi:
     NAME = line.split()[2]
     FermiList.append(GRB(NAME,RA,DEC))
 
-
-
-x=0
+results=0
 
 print('NED OBJECT -> FERMI OBJECT')
 
@@ -85,12 +80,12 @@ for NED in NEDList:
             list2.append(FermiList[list.index(l)].NAME)
         if l <= (2*(range))**.5:
             print(FermiList[list.index(l)].NAME,end='')
-            x+=1
+            results+=1
             b=True
             list2.append(FermiList[list.index(l)].NAME)
 
     if b == False:
-        print('NONE -> CLOSEST = ',FermiList[list.index(min(list))].NAME,' AT DIST = ',min(list))
+        print('NO RESULTS WITHIN RANGE OF',range,'-> CLOSEST = ',FermiList[list.index(min(list))].NAME,' AT DIST = ',min(list))
     else:
         print('')
 
@@ -101,7 +96,7 @@ for NED in NEDList:
         s=s[:-2]
         list3.append(s)
 print('---------------------------------------------------------------------------')
-print(x,'HAVE RESULTS WITHIN RANGE OF',range,'DEGREE',end='')
+print(results,'HAVE RESULTS WITHIN RANGE OF',range,'DEGREE',end='')
 if range>1:
     print('s')
 else:
