@@ -5,7 +5,7 @@ import re
 class GRB:
 
     def __init__(self,name,ra,dec):
-        
+
         self.NAME = str(name)
         self.RA = float(ra)
         self.DEC = float(dec)
@@ -87,7 +87,7 @@ for NED in NEDList:
     for l in list:
 
         if l <= (2*range)**.5 and b:
-            print(' AND ',FermiList[list.index(l)].NAME,end='')
+            print(',',FermiList[list.index(l)].NAME,end=', ')
             list2.append(FermiList[list.index(l)].NAME)
 
         if l <= (2*(range))**.5:
