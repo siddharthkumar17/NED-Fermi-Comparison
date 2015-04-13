@@ -5,12 +5,12 @@ import re
 
 import xml.etree.ElementTree as ET
 
-tree = ET.parse('FERMI_TABLE.xml')
-f = open('NED_TABLE.txt','r')
+fermi = open('FERMI_TABLE.txt','r')
+ned = open('NED_TABLE.txt','r')
 
-print(f.readline())
+ned.readline()
 
-root = tree.getroot()
+
 
 class GRB:
     def __init__(self,name,ra,dec):
@@ -44,8 +44,8 @@ def HMS2deg(ra='', dec=''):
 NEDList = []
 FermiList = []
 
-for line in f:
-    re.sub(' +',' ',line)
+for line in ned:
+    line=re.sub(' +',' ',line)
     RA = re.sub('h|m|s',' ',line.split()[3])
     DEC = re.sub('d|m|s',' ',line.split()[4])
     NAME = line.split()[2]
@@ -53,14 +53,21 @@ for line in f:
 
 
 
-for GRBs in root.findall('GRB'):
-    RA = GRBs.find('RA').text
-    DEC = GRBs.find('DEC').text
-    NAME = GRBs.find('GRBNAME').text
+for line in fermi:
+    line = re.sub(' +',' ',line)
+    line = re.sub(',',' ',line)
+    line = re.sub('\)',' ',line)
+    line = re.sub('}',' ',line)
+    RA=line.split()[0]
+    DEC = line.split()[1]
+    NAME = line.split()[2]
     FermiList.append(GRB(NAME,RA,DEC))
 
+print(len(FermiList))
+list = []
 for NED in NEDList:
+    dist = ((NED.RA-FermiList[0].RA)**2+(NED.DEC-FermiList[0].DEC)**2)**.5
     for Fermi in FermiList:
+        list.append(((NED.RA-Fermi.RA)**2+(NED.DEC-Fermi.DEC)**2)**.5)
+    print(NED.NAME,' = ')#FermiList[list.index(min(list))].NAME)
 
-        if(abs(NED.RA-Fermi.RA)<=1 and abs(NED.DEC-Fermi.DEC)<1):
-            print(NED.NAME,' = ',Fermi.NAME)
