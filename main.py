@@ -10,6 +10,8 @@ class GRB:
         self.NAME = str(name)
         self.RA = float(ra)
         self.DEC = float(dec)
+
+
         #self.NAME = str(name)+' ('+str(self.RA)+','+str(self.DEC)+')' for debug
 
 def HMS2deg(ra='', dec=''):
@@ -72,6 +74,9 @@ for line in fermi:
 results=0
 
 print('NED OBJECT -> FERMI OBJECT')
+for NED in NEDList:
+    while len(NED.NAME)<19:
+                NED.NAME+=' '
 
 list3 = []
 for NED in NEDList:
