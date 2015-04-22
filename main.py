@@ -1,6 +1,7 @@
 __author__ = 'Siddharth Kumar'
 
 import re
+import math
 
 class GRB:
 
@@ -9,6 +10,7 @@ class GRB:
         self.NAME = str(name)
         self.RA = float(ra)
         self.DEC = float(dec)
+        #self.NAME = str(name)+' ('+str(self.RA)+','+str(self.DEC)+')' for debug
 
 def HMS2deg(ra='', dec=''):
 
@@ -78,26 +80,27 @@ for NED in NEDList:
     list2=[]
 
     for Fermi in FermiList:
-        list.append(((NED.RA-Fermi.RA)**2+(NED.DEC-Fermi.DEC)**2)**.5)
+        list.append(((NED.RA-Fermi.RA)**2+((NED.DEC-Fermi.DEC)*math.cos(math.radians(NED.DEC-Fermi.DEC)))**2)**.5)
 
     print(NED.NAME,'-> ',end='')
+
 
     b = False
 
     for l in list:
 
-        if l <= (2*range)**.5 and b:
-            print(',',FermiList[list.index(l)].NAME,end=', ')
+        if l <= 1 and b:
+            print(',',FermiList[list.index(l)].NAME,'AT DIST =',l,end=', ')
             list2.append(FermiList[list.index(l)].NAME)
 
-        if l <= (2*(range))**.5:
-            print(FermiList[list.index(l)].NAME,end='')
+        if l <= 1:
+            print(FermiList[list.index(l)].NAME,'AT DIST =',l,end='')
             results+=1
             b=True
             list2.append(FermiList[list.index(l)].NAME)
 
     if b == False:
-        print('NO RESULTS WITHIN RANGE OF',range,'-> CLOSEST = ',FermiList[list.index(min(list))].NAME,' AT DIST = ',min(list))
+        print('NO RESULTS WITHIN RANGE OF',range,'-> CLOSEST = ',FermiList[list.index(min(list))].NAME,'AT DIST =',min(list))
     else:
         print('')
 
