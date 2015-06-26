@@ -12,7 +12,7 @@ class GRB:
         self.DEC = float(dec)
 
 
-        #self.NAME = str(name)+' ('+str(self.RA)+','+str(self.DEC)+')' for debug
+        self.NAME = str(name)+' ('+str(self.RA)+','+str(self.DEC)+')' #for debug
 
 def HMS2deg(ra='', dec=''):
 
