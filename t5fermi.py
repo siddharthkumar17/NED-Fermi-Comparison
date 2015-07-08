@@ -38,17 +38,16 @@ def HMS2deg(ra='', dec=''):
 
 
 fermi = open('FERMI_TABLE.txt','r')
-ned = open('t3.txt','r')
+t5 = open('t5.txt','r')
 
-ned.readline()
+t5.readline()
 
 range = 1
 
-NEDList = []
+t5list = []
 
 FermiList = []
-
-for line in ned:
+for line in t5:
 
     line=re.sub(' +',' ',line)
 
@@ -56,7 +55,7 @@ for line in ned:
     DEC = line.split()[2]
     NAME = 'J'+line.split()[0]
 
-    NEDList.append(GRB(NAME,RA,DEC))
+    t5list.append(GRB(NAME,RA,DEC))
 
 for line in fermi:
 
@@ -73,18 +72,20 @@ for line in fermi:
 
 results=0
 
-print('T3 OBJECT -> FERMI OBJECT')
+print('T5 OBJECT -> FERMI OBJECT')
 
 list3 = []
-for NED in NEDList:
+list4 = []
+results=0
+for T5 in t5list:
 
     list = []
     list2=[]
 
     for Fermi in FermiList:
-        list.append(((NED.RA-Fermi.RA)**2+(NED.DEC-Fermi.DEC)**2)**.5)
+        list.append(((T5.RA-Fermi.RA)**2+(T5.DEC-Fermi.DEC)**2)**.5)
 
-    print(NED.NAME,'-> ',end='')
+    print(T5.NAME,'-> ',end='')
 
 
     b = False
@@ -95,19 +96,24 @@ for NED in NEDList:
             print(',',FermiList[list.index(l)].NAME,'AT DIST =',l,end=', ')
             list2.append(FermiList[list.index(l)].NAME)
 
+
         if l <= 1:
             print(FermiList[list.index(l)].NAME,'AT DIST =',l,end='')
             results+=1
             b=True
+            list4.append('TRUE')
             list2.append(FermiList[list.index(l)].NAME)
+
+        
 
     if b == False:
         print('NO RESULTS WITHIN RANGE OF',range,'-> CLOSEST = ',FermiList[list.index(min(list))].NAME,'AT DIST =',min(list))
+        list4.append('FALSE')
     else:
         print('')
 
     if len(list2)>1:
-        s=NED.NAME+' HAS '+str(len(list2))+' RESULTS -> '
+        s=T5.NAME+' HAS '+str(len(list2))+' RESULTS -> '
         for q in list2:
             s+=q+', '
         s=s[:-2]
@@ -127,3 +133,8 @@ print('-------------------------------------------------------------------------
 for r in list3:
     print(r)
 print('---------------------------------------------------------------------------')
+
+for a in list4:
+    print(a)
+
+print(len(list4)-len(t5list))
