@@ -104,7 +104,7 @@ for T5 in t5list:
             list4.append('TRUE')
             list2.append(FermiList[list.index(l)].NAME)
 
-        
+
 
     if b == False:
         print('NO RESULTS WITHIN RANGE OF',range,'-> CLOSEST = ',FermiList[list.index(min(list))].NAME,'AT DIST =',min(list))
