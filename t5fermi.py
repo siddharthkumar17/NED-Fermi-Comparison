@@ -80,7 +80,8 @@ results=0
 for T5 in t5list:
 
     list = []
-    list2=[]
+
+    listTemp = []
 
     for Fermi in FermiList:
         list.append(((T5.RA-Fermi.RA)**2+(T5.DEC-Fermi.DEC)**2)**.5)
@@ -89,50 +90,29 @@ for T5 in t5list:
 
 
     b = False
-
-    for l in list:
-
-        if l <= 1 and b:
-            print(',',FermiList[list.index(l)].NAME,'AT DIST =',l,end=', ')
-            list2.append(FermiList[list.index(l)].NAME)
+    listTemp=list
+    listTemp.sort()
 
 
-        if l <= 1:
-            print(FermiList[list.index(l)].NAME,'AT DIST =',l,end='')
+    if listTemp[0] <= 1:
+            print(FermiList[list.index(listTemp[0])].NAME,'AT DIST =',listTemp[0])
             results+=1
             b=True
             list4.append('TRUE')
-            list2.append(FermiList[list.index(l)].NAME)
 
 
 
-    if b == False:
-        print('NO RESULTS WITHIN RANGE OF',range,'-> CLOSEST = ',FermiList[list.index(min(list))].NAME,'AT DIST =',min(list))
-        list4.append('FALSE')
+
     else:
-        print('')
+        print('NO RESULTS WITHIN RANGE OF',range,'-> CLOSEST = ',FermiList[list.index(listTemp[0])].NAME,'AT DIST =',listTemp[0])
+        list4.append('FALSE')
 
-    if len(list2)>1:
-        s=T5.NAME+' HAS '+str(len(list2))+' RESULTS -> '
-        for q in list2:
-            s+=q+', '
-        s=s[:-2]
-        list3.append(s)
+
+
 
 print('---------------------------------------------------------------------------')
 
-print(results,'HAVE RESULTS WITHIN RANGE OF',range,'DEGREE',end='')
 
-if range>1:
-    print('s')
-else:
-    print('')
-
-print('---------------------------------------------------------------------------')
-
-for r in list3:
-    print(r)
-print('---------------------------------------------------------------------------')
 
 for a in list4:
     print(a)
