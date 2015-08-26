@@ -40,7 +40,6 @@ def HMS2deg(ra='', dec=''):
 fermi = open('FERMI_TABLE.txt','r')
 t6 = open('t6.txt','r')
 
-t6.readline()
 
 range = 1
 
@@ -70,13 +69,11 @@ for line in fermi:
 
     FermiList.append(GRB(NAME,RA,DEC))
 
-results=0
-
 print('T5 OBJECT -> FERMI OBJECT')
 
 list3 = []
 list4 = []
-results=0
+
 for T5 in t6list:
 
     list = []
@@ -86,7 +83,7 @@ for T5 in t6list:
     for Fermi in FermiList:
         list.append(((T5.RA-Fermi.RA)**2+(T5.DEC-Fermi.DEC)**2)**.5)
 
-    print(T5.NAME,'-> ',end='')
+
 
 
     b = False
@@ -95,8 +92,8 @@ for T5 in t6list:
 
 
     if listTemp[0] <= 1:
-            print(FermiList[list.index(listTemp[0])].NAME,'AT DIST =',listTemp[0])
-            results+=1
+            #print(FermiList[list.index(listTemp[0])].NAME,'AT DIST =',listTemp[0])
+
             b=True
             list4.append('TRUE')
 
@@ -104,7 +101,7 @@ for T5 in t6list:
 
 
     else:
-        print('NO RESULTS WITHIN RANGE OF',range,'-> CLOSEST = ',FermiList[list.index(listTemp[0])].NAME,'AT DIST =',listTemp[0])
+        #print('NO RESULTS WITHIN RANGE OF',range,'-> CLOSEST = ',FermiList[list.index(listTemp[0])].NAME,'AT DIST =',listTemp[0])
         list4.append('FALSE')
 
 
@@ -117,4 +114,4 @@ print('-------------------------------------------------------------------------
 for a in list4:
     print(a)
 
-print(len(list4)-len(t6list))
+print(len(list4))
